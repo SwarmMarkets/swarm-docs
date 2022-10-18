@@ -1,0 +1,31 @@
+# Smart contracts
+
+The Swarm smart contracts can currently be found in our Github developer repo at [https://github.com/SwarmMarkets/trade-smart-contracts](https://github.com/SwarmMarkets/trade-smart-contracts)
+
+## Smart contract and current configurations
+
+| Smart contract        | Ethereum address                                                                 | Polygon address                                                                 |
+| --------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Deployer              | 0xbeAeE712741c7f99B64B798Ca127FE776d491FB4                                       | 0xbeAeE712741c7f99B64B798Ca127FE776d491FB4                                      |
+| Authorization         | 0xeFbcbD94d9C411E3f0FFa559CE627498122aCA82                                       | 0x218dd2d11cfdea1206821ea72a512641cf62ec03                                      |
+| Operations Registry:  | 0xd641ae2aD8a0e72AD92dDEda7CEF67eE3f2A49b9                                       | 0xc6f8f00a0008CAaB78762EAB89f19Bfe1AB58561                                      |
+| Permission Items:     | 0xB441417E6ff3ACf60B9F0216D8c3179913080dAa                                       | 0xCE07D5B55EE08a70A5D8786e9b6540b98fB2E740                                      |
+| Permission Manager:   | 0xE214d97ba7fF83144699737f73D271C006013d91                                       | 0x2dDe22CbF81844492b5f29a2938ab075a8224Ef5                                      |
+| XTokenWrapper:        | 0x247D082CD7649098d377Ff8812D84aA354b55c14                                       | 0x6cDDe4eD9165405c1914b229d3cD4Ac9C354C331                                      |
+| XTokenFactory:        | 0xE1532De8fa6EAd8aF4e461a9c3C9544c938F33B5                                       | 0xBf3bec2A8f6327b91A6706a63dB7B8b478c8cc12                                      |
+| BPoolProxy:           | 0x5321647F3c3769bc7bb9e10aB10d7F5C2E402c56                                       | 0x174Ac59f7071e1264b6B21Cb7FdC8FA00ae1ef3C                                      |
+| BRegistry:            | 0x8133EEB249F0636bba0B8230Ba1089a219263c04                                       | 0x329d3BD0F32C5B889b03aF87c5eD96aC0f22D3C8                                      |
+| ProtocolFee:          | [250000000000000000](https://etherscan.io/unitconverter?wei=250000000000000000)  | [250000000000000000](https://etherscan.io/unitconverter?wei=250000000000000000) |
+| MaxProtocolFee:       | 20000000000000000                                                                | 20000000000000000                                                               |
+| MinProtocolFee:       | [1000000000000000](https://etherscan.io/unitconverter?wei=1000000000000000)      | [1000000000000000](https://etherscan.io/unitconverter?wei=1000000000000000)     |
+| Fee collector:        | 0xE040C3Ca9c46a9BdE1b563D11054417ED140e44a                                       | 0xE040C3Ca9c46a9BdE1b563D11054417ED140e44a                                      |
+| BFactory:             | 0x9186503AF1D7D3317b4C2c44A815BE984838C296                                       | 0x991Fd11876A438af7BcaDc98f4b3CF201bdf6191                                      |
+| BPool Implementation: | 0xF5FaDa32917350b91fbD9BbdE62e69bF483A960A                                       |                                                                                 |
+
+Examples:
+
+* [https://compound.finance/docs/ctokens](https://compound.finance/docs/ctokens)
+* [https://resources.curve.fi/faq/glossary](https://resources.curve.fi/faq/glossary)
+* [https://docs.indexed.finance/smart-contracts/pool](https://docs.indexed.finance/smart-contracts/pool)
+* [https://docs.balancer.finance/smart-contracts/exchange-proxy](https://docs.balancer.finance/smart-contracts/exchange-proxy)
+* [https://uniswap.org/docs/v2/protocol-overview/smart-contracts/](https://uniswap.org/docs/v2/protocol-overview/smart-contracts/)
