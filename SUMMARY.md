@@ -53,3 +53,8 @@
   * [Imprint](about/terms/imprint.md)
   * [Terms of Service](about/terms/tos.md)
   * [Privacy](about/terms/privacy.md)
+
+***
+
+* [Privacy](https://docs.swarm.com/about/terms/privacy)
+* [Imprint](https://docs.swarm.com/about/terms/imprint)
