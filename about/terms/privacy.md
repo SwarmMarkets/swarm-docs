@@ -213,6 +213,24 @@ This data is not merged with other data sources.
 
 This data is recorded on the basis of Art. 6(1)(f) GDPR. The operator of the website has a legitimate interest in the technically error free depiction and the optimization of the operator’s website. In order to achieve this, server log files must be recorded.
 
+### Cloudflare
+
+We use the “Cloudflare” service provided by Cloudflare Inc., 101 Townsend St., San Francisco, CA 94107, USA. (hereinafter referred to as “Cloudflare”).
+
+Cloudflare offers a content delivery network with DNS that is available worldwide. As a result, the information transfer that occurs between your browser and our website is technically routed via Cloudflare’s network. This enables Cloudflare to analyze data transactions between your browser and our website and to work as a filter between our servers and potentially malicious data traffic from the Internet.
+
+In this context, Cloudflare may also use cookies or other technologies deployed to recognize Internet users, which shall, however, only be used for the herein described purpose.
+
+The use of Cloudflare is based on our legitimate interest in a provision of our website offerings that is as error free and secure as possible (Art. 6(1)(f) GDPR).
+
+Data transmission to the US is based on the Standard Contractual Clauses (SCC) of the European Commission. Details can be found here: [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/).
+
+For more information on Cloudflare’s security precautions and data privacy policies, please follow this link: [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/).
+
+#### Data processing
+
+We have concluded a data processing agreement (DPA) with the above-mentioned provider. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.
+
 #### Contact form
 
 If you submit inquiries to us via our contact form, the information provided in the contact form as well as any contact information provided therein will be stored by us in order to handle your inquiry and in the event that we have further questions. We will not share this information without your consent.
