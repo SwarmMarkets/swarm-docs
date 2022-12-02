@@ -10,7 +10,7 @@ Our Terms of Service contain these three parts:
 
 ### 1. SCOPE OF APPLICATION, TERMS, AND CONDITIONS OF THIRD PARTIES AND CONTRACTING PARTY
 
-These General Terms and Conditions (“**Swarm Markets T\&Cs**“) apply to all services and the software provided within the scope of the contractual relationship (“**Swarm Markets Contract**“) between Swarm Markets GmbH (“**Swarm Markets**“) with its current address and the commercial register data according to the imprint on the website www.swarm.markets, its subpage, the web application under trade.swarm.markets (“**Swarm Markets Web Application**“), or any mobile application (Swarm Markets-Web-Application, mobile application and website together “**Platform**“) as a service provider and the sole proprietor or business entity as customer (“**Customer**“) with all contents, functions, services and rules (“**Swarm Markets Services**“, a service or software as a service, each a “**Swarm Markets Service**“). General Terms and Conditions of the Customer will only become a part of the Swarm Markets Contract if Swarm Markets expressly consents and approves this in writing.
+These General Terms and Conditions (“**Swarm Markets T\&Cs**“) apply to all services and the software provided within the scope of the contractual relationship (“**Swarm Markets Contract**“) between Swarm Capital GmbH (“**Swarm Markets**“) with its current address and the commercial register data according to the imprint on the website www.swarm.markets, its subpage, the web application under trade.swarm.markets (“**Swarm Markets Web Application**“), or any mobile application (Swarm Markets-Web-Application, mobile application and website together “**Platform**“) as a service provider and the sole proprietor or business entity as customer (“**Customer**“) with all contents, functions, services and rules (“**Swarm Markets Services**“, a service or software as a service, each a “**Swarm Markets Service**“). General Terms and Conditions of the Customer will only become a part of the Swarm Markets Contract if Swarm Markets expressly consents and approves this in writing.
 
 With regards to the contract (“**Account Contract**“) between the Customer and Swarm Markets necessary for the establishment and use of the Account with the respective range of services (“**Account**“) as well as the other services provided by Swarm Markets, the General Terms and Conditions of Swarm Markets, agreed separately between the Customer and Swarm Markets, shall apply:
 
@@ -45,7 +45,7 @@ The use of the Swarm Markets Services requires the execution of an Account Contr
 
 ### **5. CONTRACTUAL RELATIONS WITH PARTNERS**
 
-Swarm Markets is using partners for delivering its services and those partners may also be entitled to receiving payments for the services rendered to the Customer by the Partner in its own name and on its own account. This applies for instance to Swarm Markets GmbH.
+Swarm Markets is using partners for delivering its services and those partners may also be entitled to receiving payments for the services rendered to the Customer by the Partner in its own name and on its own account.
 
 Paragraph 5 applies accordingly to all other Partners who provide Partner Services to the Customer via Swarm Markets Services.
 
@@ -208,7 +208,7 @@ If any provision of the Swarm Markets T\&Cs is or becomes invalid, the validity 
 
 ## **II. Special Conditions governing Transactions in Cryptographic Assets** <a href="#special-conditions-governing-transactions-in-cryptographic-assets" id="special-conditions-governing-transactions-in-cryptographic-assets"></a>
 
-These special conditions (hereinafter "Special Conditions") shall govern transactions in cryptographic assets between Swarm Markets GmbH (“Service Partner" or "SP'") and its customer (hereinafter "Customer"/"Customers"). SP and Customer together shall be referred to as the "Parties"). These Special Conditions apply to the purchase or sale of cryptographic assets via Blockchain technology (hereinafter "Cryptographic Assets"). Eligible Cryptographic Assets are specified on the SP's webpage and updated regularly.
+These special conditions (hereinafter "Special Conditions") shall govern transactions in cryptographic assets between Swarm Capital GmbH (“Service Partner" or "SP'") and its customer (hereinafter "Customer"/"Customers"). SP and Customer together shall be referred to as the "Parties"). These Special Conditions apply to the purchase or sale of cryptographic assets via Blockchain technology (hereinafter "Cryptographic Assets"). Eligible Cryptographic Assets are specified on the SP's webpage and updated regularly.
 
 ### GENERAL
 
@@ -579,4 +579,4 @@ As of 09/29/2021
 
 ## **Contact Us**
 
-SWARM welcomes your questions or comments regarding these Terms via email at [swarm@swarm.markets](mailto:%20swarm@swarm.markets)
+SWARM welcomes your questions or comments regarding these Terms via email at [swarm@swarm.com](mailto:swarm@swarm.com)
