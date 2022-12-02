@@ -497,7 +497,7 @@ The Custodian has no obligation with respect to any Supported Assets unless such
 
 7.3 The Custodian may deduct an administrative withdrawal fee (the "Administrative Withdrawal Fee") in connection with a Withdrawal Request and in accordance with the Custody Fee Schedule.
 
-7.4 The Custody Fee Schedule is incorporated by reference and is made available here: https://www.swarm-markets.com
+7.4 The Custody Fee Schedule is incorporated by reference and is made available here: https://www.swarm.com
 
 7.5 The Custodian reserves the right to change, modify, or increase the Custody Fee Schedule at any time. Any change to the Custody Fee Schedule will be posted at least three calendar days prior to taking effect and no change will be in effect for less than 30 calendar days.
 
@@ -573,7 +573,7 @@ The Custodian has the right to suspend and/or terminate the custody services und
 
 15.5 Should any of the provisions of this Custody Agreement be or become invalid or unenforceable in whole or in part, the validity or the enforceability of the remaining provisions shall not in any way be affected or impaired thereby. The invalid or unenforceable provision shall be replaced by a provision that, to the extent legally possible, provides for an interpretation in keeping with the meaning and the economic purposes of this Custody Agreement. If this Custody Agreement proves to be incomplete, a supplementary interpretation in accordance with the meaning and the purposes under due considerations of the legitimate interest of the Parties shall be applied.
 
-15.8 The Custodian hereby informs the Customer that business-related and business necessary data will be collected, stored and processed within the scope of the German data protection laws. For further information on data protection please refer to the Privacy Policy as published on the website at https://www.swarm-markets.com/privacy.
+15.8 The Custodian hereby informs the Customer that business-related and business necessary data will be collected, stored and processed within the scope of the German data protection laws. For further information on data protection please refer to the Privacy Policy as published on the website at https://www.swarm.com/privacy.
 
 As of 09/29/2021
 
