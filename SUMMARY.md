@@ -52,6 +52,7 @@
 * [Terms](about/terms/README.md)
   * [Imprint](about/terms/imprint.md)
   * [Terms of Service](about/terms/tos.md)
+  * [Terms of Service - Custody](about/terms/terms-of-service-custody.md)
   * [Privacy](about/terms/privacy.md)
 
 ***
