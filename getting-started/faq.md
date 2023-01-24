@@ -89,3 +89,7 @@ When swapping or interacting with liquidity pools, the platform will automatical
 You will always have the option to simply claim your entire proxy balance through your platform [Wallet](https://trade.swarm.markets/wallet) at any time.
 
 In the meantime, balances in the proxy wallet count towards rewards calculations.
+
+#### How does the product roadmap look like?
+
+Here is a [framework of what we are working on in 2023](https://swarm.com/roadmap-2023/).
