@@ -8,6 +8,8 @@ In terms of regulatory licensing requirements, Swarm platform / Swarm Capital Gm
 
 Swarm Capital GmbH Branch Office Berlin has submitted applications to [German Federal Financial Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht / BaFin)](https://www.bafin.de/) under GZ: GIT2-K5000-157380-2020/0001
 
+[Reconfirmation of 64y Sec 1 &2 by BaFin 12/2023](https://drive.google.com/file/d/11bNXo7iRz\_h6\_HQ0eZKfKfb4jaEDdjd5/view?usp=sharing)
+
 ####
 
 #### Note
