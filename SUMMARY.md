@@ -43,7 +43,6 @@
 ## About
 
 * [About us](about/about.md)
-* [Press](about/press.md)
 * [Licenses](about/license.md)
 * [Careers](about/careers/README.md)
   * [Backend Developer](about/careers/backend-developer.md)
