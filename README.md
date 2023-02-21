@@ -2,7 +2,7 @@
 
 We live in times where technology enables individuals to come together in swarms to express collective behavior which is self-organized, decentralized, networked and adaptive. With Swarm we aim to support these swarms in their expression of collective financial behavior.
 
-![](<.gitbook/assets/Swarm Markets Overview (2).jpg>)
+<figure><img src=".gitbook/assets/Docs hero.png" alt=""><figcaption></figcaption></figure>
 
 Our mission is to enable customers to conduct transactions with blockchain-based tokens representing all asset classes easily, cost-effectively and securely, in a regulatory-safe environment, while preserving the core benefits of DeFi: self-custody, on-chain transparency, and networked liquidity.
 
