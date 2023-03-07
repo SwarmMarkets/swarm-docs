@@ -38,7 +38,9 @@ Not yet, Swarm may release this functionality in subsequent releases. &#x20;
 
 #### How long does it take for me to receive USDC when I redeem?[​](https://docs.ondo.finance/faq#how-long-does-it-take-for-me-to-receive-usdc-when-i-redeem)
 
-Redemptions will be processed once requests reach a value of $100k in aggregate. Once the redemption request has settled, USDC will be distributed.
+Redemptions will be processed once requests reach a value of $100k in aggregate. This policy will be reviewed, as volume grows on the platform.
+
+Once the redemption request has settled, USDC will be distributed. Alternatively, users can place an offer against any listed asset on Swarm, using the decentralized over-the-counter (dOTC) smart contract, which can be taken by any user on the platform.
 
 #### How do I "know" my tokens are truly backed by real world assets?[​](https://docs.ondo.finance/faq#how-do-i-know-my-tokens-are-truly-backed-by-an-etf)
 
