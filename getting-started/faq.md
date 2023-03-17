@@ -48,7 +48,11 @@ The tokens are 100% backed by real stocks and bond ETFs bought in traditional fi
 
 The tokenization process is monitored step-by-step by a Token-Trustee, which involves tracking the delivery of the respective underlying into the custody account. Subsequently, the Token-Trustee confirms the minting and issuance of corresponding tokens.
 
-Tokens can be redeemed for the value of the underlying asset at any time and monthly disclosures of assets in reserve will be made publicly available. Swarm is working towards a real-time asset verification model.&#x20;
+Tokens can be redeemed for the value of the underlying asset at any time and monthly disclosures of assets in reserve will be made publicly available. Swarm is working towards a real-time asset verification model.
+
+**Can the real underlying assets be registered in my name?**
+
+Presently we don't have a license to transfer real underlying stocks directly to token holders. The current redemption process transfers you the value of the stocks at the time of redemption, in USDC.&#x20;
 
 **What are the risks of DeFi?**
 
