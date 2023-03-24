@@ -35,7 +35,7 @@ Enter the password for the MetaMask account you would like to use. Then choose t
 
 ***
 
-**Creating a new MetaMask wallet**
+### **Creating a new MetaMask wallet**
 
 If you need to create a new MetaMask wallet, setting one up is easy. Add [Metamask](https://metamask.io) either as an add-on or extension to your browser application (Chrome, Brave, Firefox or Edge are the currently supported browsers for MetaMask) or to your mobile phone. It’s available through the [Metamask Website](https://metamask.io), [Apple App Store](https://apps.apple.com) or [Google Play](https://play.google.com/store/apps/details?id=io.metamask). MetaMask has a great [FAQ](https://metamask.io/faqs.html) and also more support [here](https://metamask.zendesk.com/hc/en-us). Then you can complete the above steps for connecting an existing MetaMask wallet.\\
 
