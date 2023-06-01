@@ -20,7 +20,7 @@ Loyalty Level Rewards are paid to SMT holders according to the ratio of SMT to o
 
 ![](<../.gitbook/assets/image (21).png>)
 
-****
+
 
 **Other Incentives**
 
@@ -28,15 +28,16 @@ Swarm Markets will also distribute SMT to encourage activities that benefit the 
 
 ### **Key Data**
 
-| **Ticker**                         | SMT                                        |
-| ---------------------------------- | ------------------------------------------ |
-| **Type**                           | ERC20                                      |
-| **SMT token contract (Ethereum)**  | 0xb17548c7b510427baac4e267bea62e800b247173 |
-| **SMT token contract (Polygon)**   | 0xE631DABeF60c37a37d70d3B4f812871df663226f |
-| **vSMT token contract (Ethereum)** | 0x0C033bb39e67eB598D399C06A8A519498dA1Cec9 |
-| **Supply**                         | 250 million (250,000,000 SMT)              |
-| **Initial circulating supply**     | 10.3 million tokens (10,304,259 SMT)       |
-| **Team allocation**                | None → 0%                                  |
+| **Ticker**                         | SMT                                                                      |
+| ---------------------------------- | ------------------------------------------------------------------------ |
+| **Type**                           | ERC20                                                                    |
+| **SMT token contract (Ethereum)**  | 0xb17548c7b510427baac4e267bea62e800b247173                               |
+| **SMT token contract (Polygon)**   | 0xE631DABeF60c37a37d70d3B4f812871df663226f                               |
+| **vSMT token contract (Ethereum)** | 0x0C033bb39e67eB598D399C06A8A519498dA1Cec9                               |
+| **Supply**                         | 250 million (250,000,000 SMT)                                            |
+| **Initial circulating supply**     | 10.3 million tokens (10,304,259 SMT)                                     |
+| **Team allocation**                | None → 0%                                                                |
+| **ITSA Classification**            | [https://itin.itsa.global/NS8ZK44F9](https://itin.itsa.global/NS8ZK44F9) |
 
 ### **Rewards Pool**
 
