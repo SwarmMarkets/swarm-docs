@@ -278,14 +278,7 @@ Built by a team of networking engineers, Solana aims to become the blockchain in
 
 Solana was founded by 4 co-founders, led by Anatoly Yakovenko.
 
-| Project Information |                                                                                                                                                      |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Maximum supply      | See block explorer                                                                                                                                   |
-| Total supply        | See block explorer                                                                                                                                   |
-| Whitepaper          | [https://solana.com/solana-whitepaper.pdf](https://solana.com/solana-whitepaper.pdf)                                                                 |
-| Website             | [https://solana.com/](https://solana.com/)                                                                                                           |
-| Block explorer      | [https://polygonscan.com/token/0xd93f7e271cb87c23aaa73edc008a79646d1f9912](https://polygonscan.com/token/0xd93f7e271cb87c23aaa73edc008a79646d1f9912) |
-| ITSA                | [https://itin.itsa.global/Q3MZ1ZJ20](https://itin.itsa.global/Q3MZ1ZJ20)                                                                             |
+<table><thead><tr><th width="392.4597451764406">Project Information</th><th></th></tr></thead><tbody><tr><td>Maximum supply</td><td>See block explorer</td></tr><tr><td>Total supply</td><td>See block explorer</td></tr><tr><td>Whitepaper</td><td><a href="https://solana.com/solana-whitepaper.pdf">https://solana.com/solana-whitepaper.pdf</a></td></tr><tr><td>Website</td><td><a href="https://solana.com/">https://solana.com/</a></td></tr><tr><td>Block explorer</td><td><a href="https://polygonscan.com/token/0xd93f7e271cb87c23aaa73edc008a79646d1f9912">https://polygonscan.com/token/0xd93f7e271cb87c23aaa73edc008a79646d1f9912</a></td></tr><tr><td>ITSA</td><td><a href="https://itin.itsa.global/Q3MZ1ZJ20">https://itin.itsa.global/Q3MZ1ZJ20</a></td></tr></tbody></table>
 
 
 
