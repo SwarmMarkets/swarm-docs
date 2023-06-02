@@ -14,19 +14,23 @@ The following assets are currently authorized for trading on Swarm:
 
 #### Polygon Network
 
-| Token      | Token Address                              |
-| ---------- | ------------------------------------------ |
-| **wBTC**   | 0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6 |
-| **wETH**   | 0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619 |
-| **USDC**   | 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174 |
-| **DAI**    | 0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063 |
-| **SMT**    | 0xE631DABeF60c37a37d70d3B4f812871df663226f |
-| **WMATIC** | 0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270 |
-| **Link**   | 0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39 |
-| **SOL**    | 0xd93f7E271cB87c23AaA73edC008A79646d1F9912 |
-| **SOLsn**  | 0x08Bf1DAC72EAE7FC2c407123038f4563FD79C3ad |
-| **NEARsn** | 0x3fA010f813ccdE2597cf907df714B3A8743028eF |
-| **DOTsn**  | 0x8Ce654f90aCe2AB4C5C512010C314B5C6E15Cc77 |
-| **ETH2sn** | 0x345d87F34b7B830d89C2a98D89a2A0AF54bB6fD0 |
+| Token        | Token Address                              |
+| ------------ | ------------------------------------------ |
+| **wBTC**     | 0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6 |
+| **wETH**     | 0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619 |
+| **USDC**     | 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174 |
+| **DAI**      | 0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063 |
+| **SMT**      | 0xE631DABeF60c37a37d70d3B4f812871df663226f |
+| **WMATIC**   | 0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270 |
+| **Link**     | 0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39 |
+| **SOL**      | 0xd93f7E271cB87c23AaA73edC008A79646d1F9912 |
+| **SOLsn**    | 0x08Bf1DAC72EAE7FC2c407123038f4563FD79C3ad |
+| **NEARsn**   | 0x3fA010f813ccdE2597cf907df714B3A8743028eF |
+| **DOTsn**    | 0x8Ce654f90aCe2AB4C5C512010C314B5C6E15Cc77 |
+| **ETH2sn**   | 0x345d87F34b7B830d89C2a98D89a2A0AF54bB6fD0 |
+| **AAPL**     | 0xa13e07B145Cd28294447DD271Ea0F158727976bE |
+| **TSLA**     | 0x7FCFa7F21c9390eEB2C0158A892B817bCA5FBafb |
+| **TBONDS01** | 0xf4D24F4E0Ce54760788B0A0FB352BCC34e7d045f |
+| **TBONDS13** | 0x60f9971aEA32B1b3B369a1fabC435A15c048D0F0 |
 
 To enquire about listing a new asset, contact [swarm@swarm.com](mailto:swarm@swarm.com)
