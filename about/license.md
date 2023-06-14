@@ -3,7 +3,7 @@
 In terms of regulatory licensing requirements, Swarm platform / Swarm Capital GmbH Branch Office Berlin is deemed to have been granted the authorization required [according to section 64y](https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Auslegungsentscheidung/BA/ae\_Hinweise\_zur\_Auslegung\_64y\_KWG\_en.html?nn=9451692#doc13838604bodyText8) of the [German Banking Act (Kreditwesengesetz – "KWG")](https://www.gesetze-im-internet.de/kredwg/BJNR008810961.html) for conducting the following businesses:
 
 * Commission Business / Principal Broking Services (section 1 para. 1 sentence 2 no. 4 KWG)
-* Brokerage  (section 1 para. 1 sentence 2 no. 1 KWG)
+* Investment Brokerage  (section 1 para. 1 sentence 2 no. 1 KWG)
 * Placement  (section 1 para. 1 sentence 2 no. 2 KWG)
 * Crypto Custodian (section 1 para. 1a sentence 2 no. 6 KWG)
 
