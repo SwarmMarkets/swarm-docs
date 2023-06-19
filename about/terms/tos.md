@@ -380,7 +380,7 @@ The SP settles securities trades within the country of Germany unless the follow
 
 ## **III. Custody Agreement for Crypto Currency Services**
 
-The following Custody Agreement applies to the Custodian's crypto custody service between Swarm Markets GmbH (the "Custodian") and Customer. Customers are requested to read this Agreement carefully to understand which provisions apply to them and how. This Custody Agreement is to be read in conjunction with the Custodian's General Terms of Use, Special Conditions governing Transactions in Cryptographic Assets and Privacy Policy.
+The following Custody Agreement applies to the Custodian's crypto custody service between Swarm Capital GmbH Branch Office Berlin (the "Custodian") and Customer. Customers are requested to read this Agreement carefully to understand which provisions apply to them and how. This Custody Agreement is to be read in conjunction with the Custodian's General Terms of Use, Special Conditions governing Transactions in Cryptographic Assets and Privacy Policy.
 
 Customers are reminded that
 
