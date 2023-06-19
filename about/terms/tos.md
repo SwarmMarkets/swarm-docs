@@ -20,7 +20,7 @@ The use of the Swarm Markets Services provided by Swarm Markets is subject to th
 
 ### **2. SUBJECT MATTER OF THE CONTRACT**
 
-The subject of the Swarm Markets Contract is the use of Swarm Markets Services. Through Swarm Markets, the Customer opens an Account with Swarm Markets. Swarm Markets provides the Customer with access to the Account and to the Partner Services via the application provided by Swarm Markets. A detailed overview of the Swarm Markets Services and the respective fees charged can be found in Swarm Markets’s current prices and services list (“**Prices and Services List**“) to which the Swarm Markets T\&Cs apply in full as part of the Swarm Markets Contract.
+The subject of the Swarm Markets Contract is the use of Swarm Markets Services. The Customer connects their wallet to the application operated by Swarm Markets. After the successfully passed compliance processes, the client’s wallet is permitted to interact with the application (in the following such wallet also called “Account”).  A detailed overview of the Swarm Markets Services and the respective fees charged can be found in Swarm Markets’ current prices and services list (“**Prices and Services List**“) to which the Swarm Markets T\&Cs apply in full as part of the Swarm Markets Contract.
 
 Swarm Markets provides against payment, inter alia, the technical requirements for and other services in connection with the Account and access to other regulated Partner Services of banking institutions as well as financial and payment service providers as a technical service provider within the meaning of Section 2 (1) no. 9 of the German Payment Services Supervision Act (ZAG) via access points, integrations and interfaces (inter alia, so-called APIs), which are provided by the respective institution or service provider.
 
@@ -33,13 +33,11 @@ Swarm Markets will use best efforts to provide an unrestricted use and availabil
 The provided Swarm Markets Services are also in accordance with the Swarm Markets Contract, as far as the service level is reduced by a maximum of 1% on an annual average basis and the use or availability of the Swarm Markets Services is limited by:
 
 * repair, update or maintenance work on the Swarm Markets website; or
-* circumstances beyond Swarm Markets’s control, in particular all actions of third parties not acting on behalf of Swarm Markets (whereby Swarm Markets and the Partners are not such third parties) and the availability of technical internet functions which Swarm Markets cannot influence.
+* circumstances beyond Swarm Markets’ control, in particular all actions of third parties not acting on behalf of Swarm Markets (whereby Swarm Markets and the Partners are not such third parties) and the availability of technical internet functions which Swarm Markets cannot influence.
 
 ### **4. CONTRACTUAL RELATIONSHIP WITH SWARM MARKETS**
 
 The opening and use of the Account is a prerequisite for the use of Swarm Markets Services.
-
-The use of the Swarm Markets Services requires the execution of an Account Contract. This Account Contract is concluded directly between Swarm Markets and the Customer. Under the Account Contract, Swarm Markets undertakes in particular to set up the Account for the Customer, to credit incoming payments to the Account, to process transfer orders to the debit of the Account and to issue one or more debit cards to the Customer. The Account shall be managed as a current account by Swarm Markets.
 
 ### **5. CONTRACTUAL RELATIONS WITH PARTNERS**
 
@@ -51,13 +49,13 @@ The use of the Swarm Markets Services is unrestricted and still possible after t
 
 ### **6. CONCLUSION OF CONTRACT**
 
-The Customer submits, directly or through its legal representative, an application to Swarm Markets for the conclusion of the Swarm Markets Contract by creating a user account on the Platform, selecting a Swarm Markets pricing plan according to the Prices and Services List and accepting the Swarm Markets T\&Cs (“**Offer**“). For the user account, the Customer provides its e-mail address and a password in addition to the master data (“**Access Credentials**“).
+The Customer submits, directly or through its legal representative, an application to Swarm Markets for the conclusion of the Swarm Markets Contract by creating an user account on the Platform (“User Account”), and accepting the Swarm Markets T\&Cs (“**Offer**“). For the User Account, the Customer provides its e-mail address and a password in addition to the master data (“**Access Credentials**“).
 
-Swarm Markets accepts the Customer’s Offer subject to the conditions precedent that (i) Customer has entered into an Account Contract with Swarm Markets and (ii) Customer’s Account has been opened (“**Conditions Precedent**“). For the conclusion of the Account Contract with the Customer, Swarm Markets conducts a verification in accordance with regulatory and legal requirements (“**Regulatory Check**“). In the course of the Regulatory Check, Swarm Markets verifies, among other things, the identity of the Customer and its legal representatives. For the Regulatory Check, the Customer shall provide further information and submit documents during the registration process. In simple cases, the Regulatory Check usually takes two working days from the time when the Customer submits all necessary information and documents in a complete, correct and clear manner; otherwise, however, it may take longer.
+Swarm Markets accepts the Customer’s Offer subject to the conditions precedent that (i) Customer has entered into an Account Contract with Swarm Markets and (ii) the User Account has been opened (“**Conditions Precedent**“). For the conclusion of the Account Contract with the Customer, Swarm Markets conducts a verification in accordance with regulatory and legal requirements (“**Regulatory Check**“). In the course of the Regulatory Check, Swarm Markets verifies, among other things, the identity of the Customer and its legal representatives. For the Regulatory Check, the Customer shall provide further information and submit documents during the registration process. In simple cases, the Regulatory Check usually takes two working days from the time when the Customer submits all necessary information and documents in a complete, correct and clear manner; otherwise, however, it may take longer.
 
-As soon as the Conditions Precedent have been fulfilled and, on that basis, the Swarm Markets Contract between the Customer and Swarm Markets has been concluded, Swarm Markets will notify the Customer by e-mail that the Account is now operational.
+As soon as the Conditions Precedent have been fulfilled and, on that basis, the Swarm Markets Contract between the Customer and Swarm Markets has been concluded, Swarm Markets will notify the Customer by e-mail that the User Account is now operational.
 
-With regards to further Partner Services (not yet offered and only offered from a future date onwards), Swarm Markets will inform the Customer timely in an appropriate form about their content and any requirements to accept the general terms and conditions of the relevant Partner. Details of the conditions and requirements of the Partner Services can be found in the respective Partner Agreements. The Partner Agreements are beyond Swarm Markets’s control.
+With regards to further Partner Services (not yet offered and only offered from a future date onwards), Swarm Markets will inform the Customer timely in an appropriate form about their content and any requirements to accept the general terms and conditions of the relevant Partner. Details of the conditions and requirements of the Partner Services can be found in the respective Partner Agreements. The Partner Agreements are beyond Swarm Markets’ control.
 
 ### **7. COMMUNICATION AND MODIFICATION OF INFORMATION**
 
@@ -73,7 +71,7 @@ A termination of the Account Contract and the order to close the Account as well
 
 Swarm Markets undertakes to protect customer data at all times by appropriate and state of the art measures and to disclose personal data of the Customer and its online banking users only for legal reasons, especially if required for the fulfillment of the Swarm Markets Contract or if the Customer has consented thereto.
 
-A technical measure in the sense of clause 8.1 is that Swarm Markets transmits data, in particular account information, exclusively in encrypted form. Additionally, Swarm Markets uses other suitable and secure procedures to enable the Customer to retrieve necessary financial information and to transmit requests (e.g. TAN procedure, 2FA).
+A technical measure in the sense of clause 8.1 is that Swarm Markets transmits data, in particular User Account information, exclusively in encrypted form. Additionally, Swarm Markets uses other suitable and secure procedures to enable the Customer to retrieve necessary financial information and to transmit requests (e.g. TAN procedure, 2FA).
 
 Details on the handling of personal data, data protection, and data security are described in detail in Swarm Markets’ privacy policy (“**Privacy Policy**“). Data is transmitted via a secure and encrypted internet connection. For the regular exchange of data, Swarm Markets has concluded an agreement on joint responsibility for data processing in accordance with Art. 26 of the German General Data Protection Regulation (GDPR) with Partners.
 
@@ -87,7 +85,7 @@ The customer is responsible for the confidentiality and security of its Access C
 
 As part of its duty of care, the Customer shall ensure that the Customer can be reached at the e-mail address provided by it from the time of registration onwards. Any misuse of the Swarm Markets Services or the Account, suspicion thereof or loss of the Access Credentials must be reported by the Customer to Swarm Markets immediately in text form (e.g. by e-mail or in the Swarm Markets Web Application).
 
-Furthermore, the Customer is responsible for taking appropriate precautions (on a regular basis and in accordance with the risks involved) to secure the data and contents entered, uploaded and stored in the course of its use of the Swarm Markets Services or the Account as well as to create its own backup copies in order to ensure the reconstruction of the data and information in case of loss.
+Furthermore, the Customer is responsible for taking appropriate precautions (on a regular basis and in accordance with the risks involved) to secure the data and contents entered, uploaded and stored in the course of its use of the Swarm Markets Services or the User Account as well as to create its own backup copies in order to ensure the reconstruction of the data and information in case of loss.
 
 If further online banking users of the Customer are activated (e.g. for employees), the Customer is responsible for the behavior of these further users as if the Customer or its legal representative had acted itself.
 
@@ -118,9 +116,9 @@ The right to an extraordinary termination for good cause remains unaffected. An 
 * is more than one month in default with the payment of an entire fee, e.g. the monthly pricing plan; is repeatedly in default with considerable parts of fees despite a reminder or notice;
 * fails to provide Swarm Markets or its Partners with information required for regulatory reasons within a reasonable period of time despite being requested to do so;
 * the Customer uses the Swarm Markets Services for unfair business practices;
-* impairs Swarm Markets Services, in particular through the use of unauthorised software solutions, malicious software or attacks Swarm Markets’s infrastructure;
+* impairs Swarm Markets Services, in particular through the use of unauthorised software solutions, malicious software or attacks Swarm Markets’ infrastructure;
 * otherwise breaches essential contractual obligations or repeatedly breaches contractual obligations; or
-* endangers the claims and interests of Swarm Markets in such a way that Swarm Markets’s financial situation deteriorates substantially or is seriously endangered.
+* endangers the claims and interests of Swarm Markets in such a way that Swarm Markets’ financial situation deteriorates substantially or is seriously endangered.
 
 ### **13. LIABILITY FOR DEFICIENCIES**
 
@@ -176,9 +174,7 @@ Swarm Markets will inform the Customer by e-mail about the new regulations and t
 
 The obligation to pay the fees for Swarm Markets Services begins on the day on which Swarm Markets notifies the Customer of the validity of the Swarm Markets Contract in accordance with clause 6.3. The payment obligation ends with the expiration of the term of the Swarm Markets Contract (if applicable) or, in case of a termination, with the effectiveness of the termination according to clauses 12.2 to 12.4.
 
-The fees for the respective Swarm Markets Services are listed and specified in detail in the Prices and Services List. Any additional fees for the Partner Services, if applicable, are set out in the respective Partner Agreements or the Partner’s Prices and Services List. The Customer will always be informed about any fees for Swarm Markets Services or Partner Services in connection with the respective activation of the relevant Swarm Markets Services or Partner Services. Swarm Markets collects the fees for Swarm Markets Services in principle in its own name and on its own account directly from the Customer’s Account by means of a direct debit procedure which must be set up after registration. Certain fees for Swarm Markets Services can be collected by the Partner from the Customer for the account of Swarm Markets. These fees and the respective Swarm Markets Services concerned are marked accordingly in the Prices and Services List. Unless otherwise expressly indicated on the invoice, Swarm Markets will invoice in its own name and on its own account. As far as Swarm Markets collects fees for the Partners, Swarm Markets is entitled to do so directly from the Account of the Customer by means of a direct debit system which has to be set up after registration. The Customer has to ensure that the Account is sufficiently funded. Any fees due will be collected at the beginning of the next month for the previous month.
-
-The Customer agrees to receive invoices in electronic form (i.e. within the user interface of the Swarm Markets Web Application). The Customer is responsible for the proper storage of the invoices.
+The fees for the respective Swarm Markets Services are listed and specified in detail in the Prices and Services List. Any additional fees for the Partner Services, if applicable, are set out in the respective Partner Agreements or the Partner’s Prices and Services List. The Customer will always be informed about any fees for Swarm Markets Services or Partner Services in connection with the respective activation of the relevant Swarm Markets Services or Partner Services. Swarm Markets collects the fees for Swarm Markets Services in principle in its own name and on its own account directly as a proportion of the value of certain transactions collected as a part of the transaction process. These fees and the respective Swarm Markets Services concerned are marked accordingly in the Prices and Services List. Unless otherwise expressly indicated on the invoice, Swarm Markets will invoice in its own name and on its own account.
 
 ### **20. BONUS PROGRAMS AND CREDITS**
 
@@ -212,7 +208,7 @@ These special conditions (hereinafter "Special Conditions") shall govern transac
 
 Customers are reminded that:
 
-* they and any and all persons authorized to initiate Orders are required to successfully complete our account opening process pursuant to our AML Policy, which may be amended from time to time, before making use of SP's Transaction services;
+* they and any and all persons authorized to initiate Orders are required to successfully complete our User Account opening process pursuant to our AML Policy, which may be amended from time to time, before making use of SP's Transaction services;
 * they are solely responsible for, and shall pay, all taxes, assessments, duties, and other governmental charges, including any interest or penalty rightfully owed by Customers with respect to any transaction related to SP's services;
 * Cryptographic Assets are new forms of assets that the law regarding their ownership, custody, and transfer is developing and uncertain, and that transacting in such assets poses certain risks that are not present in the case of more traditional asset classes. Customers will bear such risks and the potential loss or diminution in value of Cryptographic Assets due to changes or developments in the law or conditions under existing law in which your rights in and to such Cryptographic Assets are not adequately protected;
 * SP does not own or control the underlying software protocols of networks which govern the operation of Cryptographic Assets, (ii) SP makes no guarantees regarding their security, functionality, or availability, and (iii) in no event shall the SP be liable for or in connection with any acts, decisions, or omissions made by developers or promoters of such Cryptographic Assets;
@@ -247,9 +243,9 @@ The SP and the Customer conclude transactions in the form of
 
 2.2.2 Written form under 1.3.1 of these Special Conditions means email, SMS, fax or letter. The Order may also be given orally in personal meetings or over the phone.
 
-2.2.3 The SP is not obligated to execute Orders that SP assumes may entail an infringement of applicable legislation or any rules adopted for the relevant regulated market or markets. In this case, the SP will notify the Customer accordingly, if permitted by law. 1.3.4 The SP reserves the right to refuse to process, cancel or reverse, any Order in its sole discretion in accordance with applicable law and these Special Conditions, even following deposit of Cryptographic Assets in the Customer's Custody Account.
+2.2.3 The SP is not obligated to execute Orders that SP assumes may entail an infringement of applicable legislation or any rules adopted for the relevant regulated market or markets. In this case, the SP will notify the Customer accordingly, if permitted by law. The SP reserves the right to refuse to process, cancel or reverse, any Order in its sole discretion in accordance with applicable law and these Special Conditions, even following deposit of Cryptographic Assets in the Customer's Custody Account.
 
-2.2.4 With respect to the use of correct email address and other credentials, the Custodian cannot authenticate whether or not the Order originated from the Customer or another authorized person. As such, the SP may rely upon any action that they believe in good faith to have been taken by the Customer or another authorized person. It is the Customer's sole responsibility to protect and secure their user name, password and other credentials from unauthorized use and disclosure.
+2.2.4 With respect to the use of correct email address and other credentials, SP cannot authenticate whether or not the Order originated from the Customer or another authorized person. As such, the SP may rely upon any action that they believe in good faith to have been taken by the Customer or another authorized person. It is the Customer's sole responsibility to protect and secure their user name, password and other credentials from unauthorized use and disclosure.
 
 #### 2.3 Commission Transaction
 
@@ -271,7 +267,7 @@ The SP and the Customer conclude transactions in the form of
 
 2.5.1 When the SP executes Orders from a Customer for an Investment Brokering Transaction, it conveys the Customer's declaration to purchase or sell specific Cryptographic Assets to the third party.
 
-2.5.2 The Customer makes available to the SP the information necessary to convey the declaration to purchase or sell, particularly the account information for using the Customer's wallet or setting up a wallet in the name of the Customer.
+2.5.2 The Customer makes available to the SP the information necessary to convey the declaration to purchase or sell, particularly the User Account information for using the Customer's wallet or setting up a wallet in the name of the Customer.
 
 #### 2.6 Types of transactions between customers
 
@@ -308,7 +304,7 @@ The SP shall notify the Customer of the execution of the Order without delay.
 
 The SP settles the purchase or sale with the Customer; it is entitled to invoice its fees and expenses including external costs (hereinafter 'Transaction Costs'). Prior to executing the Transaction, the SP communicates the Transaction Costs to the Customer or the Parties have agreed on a different formula for acceptable Transaction Costs.
 
-### **5. Requirement for an adequate account balance/portfolio holding**
+### **5. Requirement for an adequate account balance/portfolio holding for Accounts whereby the custody is held by SP**
 
 The SP is only obligated to execute Orders as long as the Customer's balance or the Customer's portfolio holdings available for the Transaction are sufficient to allow execution.
 
@@ -573,8 +569,8 @@ The Custodian has the right to suspend and/or terminate the custody services und
 
 15.8 The Custodian hereby informs the Customer that business-related and business necessary data will be collected, stored and processed within the scope of the German data protection laws. For further information on data protection please refer to the Privacy Policy as published on the website at https://www.swarm.com/privacy.
 
-As of 09/29/2021
+As of 06/19/2023
 
 ## **Contact Us**
 
-SWARM welcomes your questions or comments regarding these Terms via email at [swarm@swarm.com](mailto:swarm@swarm.com)
+Swarm welcomes your questions or comments regarding these Terms via email at [swarm@swarm.com](mailto:swarm@swarm.com)
