@@ -22,10 +22,12 @@ The Swarm smart contracts can currently be found in our Github developer repo at
 | BFactory:             | 0x9186503AF1D7D3317b4C2c44A815BE984838C296                                       | 0x991Fd11876A438af7BcaDc98f4b3CF201bdf6191                                      |
 | BPool Implementation: | 0xF5FaDa32917350b91fbD9BbdE62e69bF483A960A                                       |                                                                                 |
 
-Examples:
 
-* [https://compound.finance/docs/ctokens](https://compound.finance/docs/ctokens)
-* [https://resources.curve.fi/faq/glossary](https://resources.curve.fi/faq/glossary)
-* [https://docs.indexed.finance/smart-contracts/pool](https://docs.indexed.finance/smart-contracts/pool)
-* [https://docs.balancer.finance/smart-contracts/exchange-proxy](https://docs.balancer.finance/smart-contracts/exchange-proxy)
-* [https://uniswap.org/docs/v2/protocol-overview/smart-contracts/](https://uniswap.org/docs/v2/protocol-overview/smart-contracts/)
+
+SMT Securities Staking contract
+
+
+
+| Smart contract         | Polygon address                            |
+| ---------------------- | ------------------------------------------ |
+| SMT Securities Staking | 0x813B9bE9ef5c7bBCd89A8276Fa14dd96319411B1 |
