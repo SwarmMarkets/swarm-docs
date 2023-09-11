@@ -50,9 +50,29 @@ For more information, please see the AWS Data Privacy Policy: [https://aws.amazo
 
 AWS is used on the basis of Art. 6(1)(f) GDPR. We have a legitimate interest in a depiction of our website that is as reliable as possible. If appropriate consent has been obtained, the processing is carried out exclusively on the basis of Art. 6(1)(a) GDPR and § 25 (1) TTDSG, insofar the consent includes the storage of cookies or the access to information in the user’s end device (e.g., device fingerprinting) within the meaning of the TTDSG. This consent can be revoked at any time.
 
+The company is certified in accordance with the “EU-US Data Privacy Framework” (DPF). The DPF is an agreement between the European Union and the US, which is intended to ensure compliance with European data protection standards for data processing in the US. Every company certified under the DPF is obliged to comply with these data protection standards. For more information, please contact the provider under the following link: [https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true\&id=a2zt0000000TOWQAA4\&status=Active](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true\&id=a2zt0000000TOWQAA4\&status=Active)
+
 **Data processing**
 
-We have concluded a data processing agreement (DPA) with the above-mentioned provider. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.
+We have concluded a data processing agreement (DPA) for the use of the above-mentioned service. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.
+
+#### Cloudflare
+
+We use the “Cloudflare” service provided by Cloudflare Inc., 101 Townsend St., San Francisco, CA 94107, USA. (hereinafter referred to as “Cloudflare”).
+
+Cloudflare offers a content delivery network with DNS that is available worldwide. As a result, the information transfer that occurs between your browser and our website is technically routed via Cloudflare’s network. This enables Cloudflare to analyze data transactions between your browser and our website and to work as a filter between our servers and potentially malicious data traffic from the Internet. In this context, Cloudflare may also use cookies or other technologies deployed to recognize Internet users, which shall, however, only be used for the herein described purpose.
+
+The use of Cloudflare is based on our legitimate interest in a provision of our website offerings that is as error free and secure as possible (Art. 6(1)(f) GDPR).
+
+Data transmission to the US is based on the Standard Contractual Clauses (SCC) of the European Commission. Details can be found here: [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/).
+
+For more information on Cloudflare’s security precautions and data privacy policies, please follow this link: [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/).
+
+The company is certified in accordance with the “EU-US Data Privacy Framework” (DPF). The DPF is an agreement between the European Union and the US, which is intended to ensure compliance with European data protection standards for data processing in the US. Every company certified under the DPF is obliged to comply with these data protection standards. For more information, please contact the provider under the following link: [https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true\&id=a2zt0000000GnZKAA0\&status=Active](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true\&id=a2zt0000000GnZKAA0\&status=Active)
+
+**Data processing**
+
+We have concluded a data processing agreement (DPA) for the use of the above-mentioned service. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.
 
 #### Amazon CloudFront CDN
 
@@ -66,9 +86,11 @@ The data transfer to the United States is based on the Standard Contract Clauses
 
 For more information on Amazon CloudFront CDN please follow this link: [https://d1.awsstatic.com/legal/privacypolicy/AWS\_Privacy\_Notice\_\_German\_Translation.pdf](https://d1.awsstatic.com/legal/privacypolicy/AWS\_Privacy\_Notice\_\_German\_Translation.pdf).
 
+The company is certified in accordance with the “EU-US Data Privacy Framework” (DPF). The DPF is an agreement between the European Union and the US, which is intended to ensure compliance with European data protection standards for data processing in the US. Every company certified under the DPF is obliged to comply with these data protection standards. For more information, please contact the provider under the following link: [https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true\&id=a2zt0000000TOWQAA4\&status=Active](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true\&id=a2zt0000000TOWQAA4\&status=Active)
+
 **Data processing**
 
-We have concluded a data processing agreement (DPA) with the above-mentioned provider. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.
+We have concluded a data processing agreement (DPA) for the use of the above-mentioned service. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.
 
 ### 3. General information and mandatory information
 
@@ -115,9 +137,15 @@ Pestalozzistr. 3, 10625 Berlin, Germany
 Phone: +49 (0) 15146122998\
 E-mail: privacy@swarm.com
 
-#### Information on data transfer to the USA and other non-EU countries
+#### Information on the data transfer to third-party countries that are not secure under data protection law and the transfer to US companies that are not DPF-certified
 
-Among other things, we use tools of companies domiciled in the United States or other from a data protection perspective non-secure non-EU countries. If these tools are active, your personal data may potentially be transferred to these non-EU countries and may be processed there. We must point out that in these countries, a data protection level that is comparable to that in the EU cannot be guaranteed. For instance, U.S. enterprises are under a mandate to release personal data to the security agencies and you as the data subject do not have any litigation options to defend yourself in court. Hence, it cannot be ruled out that U.S. agencies (e.g., the Secret Service) may process, analyze, and permanently archive your personal data for surveillance purposes. We have no control over these processing activities.
+We use, among other technologies, tools from companies located in third-party countries that are not safe under data protection law, as well as US tools whose providers are not certified under the EU-US Data Privacy Framework (DPF). If these tools are enabled, your personal data may be transferred to and processed in these countries. We would like you to note that no level of data protection comparable to that in the EU can be guaranteed in third countries that are insecure in terms of data protection law.
+
+We would like to point out that the US, as a secure third-party country, generally has a level of data protection comparable to that of the EU. Data transfer to the US is therefore permitted if the recipient is certified under the “EU-US Data Privacy Framework” (DPF) or has appropriate additional assurances. Information on transfers to third-party countries, including the data recipients, can be found in this Privacy Policy.
+
+#### Recipients of personal data
+
+In the scope of our business activities, we cooperate with various external parties. In some cases, this also requires the transfer of personal data to these external parties. We only disclose personal data to external parties if this is required as part of the fulfillment of a contract, if we are legally obligated to do so (e.g., disclosure of data to tax authorities), if we have a legitimate interest in the disclosure pursuant to Art. 6 (1)(f) GDPR, or if another legal basis permits the disclosure of this data. When using processors, we only disclose personal data of our customers on the basis of a valid contract on data processing. In the case of joint processing, a joint processing agreement is concluded.
 
 #### Revocation of your consent to the processing of data
 
@@ -135,18 +163,18 @@ In the event of violations of the GDPR, data subjects are entitled to log a comp
 
 #### Right to data portability
 
-You have the right to demand that we hand over any data we automatically process on the basis of your consent or in order to fulfil a contract be handed over to you or a third party in a commonly used, machine readable format. If you should demand the direct transfer of the data to another controller, this will be done only if it is technically feasible.
+You have the right to have data that we process automatically on the basis of your consent or in fulfillment of a contract handed over to you or to a third party in a common, machine-readable format. If you should demand the direct transfer of the data to another controller, this will be done only if it is technically feasible.
 
 #### Information about, rectification and eradication of data
 
-Within the scope of the applicable statutory provisions, you have the right to at any time demand information about your archived personal data, their source and recipients as well as the purpose of the processing of your data. You may also have a right to have your data rectified or eradicated. If you have questions about this subject matter or any other questions about personal data, please do not hesitate to contact us at any time.
+Within the scope of the applicable statutory provisions, you have the right to demand information about your archived personal data, their source and recipients as well as the purpose of the processing of your data at any time. You may also have a right to have your data rectified or eradicated. If you have questions about this subject matter or any other questions about personal data, please do not hesitate to contact us at any time.
 
 #### Right to demand processing restrictions
 
 You have the right to demand the imposition of restrictions as far as the processing of your personal data is concerned. To do so, you may contact us at any time. The right to demand restriction of processing applies in the following cases:
 
 * In the event that you should dispute the correctness of your data archived by us, we will usually need some time to verify this claim. During the time that this investigation is ongoing, you have the right to demand that we restrict the processing of your personal data.
-* If the processing of your personal data was/is conducted in an unlawful manner, you have the option to demand the restriction of the processing of your data in lieu of demanding the eradication of this data.
+* If the processing of your personal data was/is conducted in an unlawful manner, you have the option to demand the restriction of the processing of your data instead of demanding the eradication of this data.
 * If we do not need your personal data any longer and you need it to exercise, defend or claim legal entitlements, you have the right to demand the restriction of the processing of your personal data instead of its eradication.
 * If you have raised an objection pursuant to Art. 21(1) GDPR, your rights and our rights will have to be weighed against each other. As long as it has not been determined whose interests prevail, you have the right to demand a restriction of the processing of your personal data.
 
@@ -168,15 +196,15 @@ We herewith object to the use of contact information published in conjunction wi
 
 Our websites and pages use what the industry refers to as “cookies.” Cookies are small data packages that do not cause any damage to your device. They are either stored temporarily for the duration of a session (session cookies) or they are permanently archived on your device (permanent cookies). Session cookies are automatically deleted once you terminate your visit. Permanent cookies remain archived on your device until you actively delete them, or they are automatically eradicated by your web browser.
 
-In some cases, it is possible that third-party cookies are stored on your device once you enter our site (third-party cookies). These cookies enable you or us to take advantage of certain services offered by the third party (e.g., cookies for the processing of payment services).
+Cookies can be issued by us (first-party cookies) or by third-party companies (so-called third-party cookies). Third-party cookies enable the integration of certain services of third-party companies into websites (e.g., cookies for handling payment services).
 
-Cookies have a variety of functions. Many cookies are technically essential since certain website functions would not work in the absence of the cookies (e.g., the shopping cart function or the display of videos). The purpose of other cookies may be the analysis of user patterns or the display of promotional messages.
+Cookies have a variety of functions. Many cookies are technically essential since certain website functions would not work in the absence of these cookies (e.g., the shopping cart function or the display of videos). Other cookies may be used to analyze user behavior or for promotional purposes.
 
-Cookies, which are required for the performance of electronic communication transactions, or for the provision of certain functions you want to use (e.g., for the shopping cart function) or those that are necessary for the optimization (required cookies) of the website (e.g., cookies that provide measurable insights into the web audience), shall be stored on the basis of Art. 6(1)(f) GDPR, unless a different legal basis is cited. The operator of the website has a legitimate interest in the storage of required cookies to ensure the technically error free and optimized provision of the operator’s services. If your consent to the storage of the cookies and similar recognition technologies has been requested, processing occurs exclusively on the basis of the consent obtained (Art. 6(1)(a) GDPR and § 25 (1) TTDSG); this consent may be revoked at any time.
+Cookies, which are required for the performance of electronic communication transactions, for the provision of certain functions you want to use (e.g., for the shopping cart function) or those that are necessary for the optimization (required cookies) of the website (e.g., cookies that provide measurable insights into the web audience), shall be stored on the basis of Art. 6(1)(f) GDPR, unless a different legal basis is cited. The operator of the website has a legitimate interest in the storage of required cookies to ensure the technically error-free and optimized provision of the operator’s services. If your consent to the storage of the cookies and similar recognition technologies has been requested, the processing occurs exclusively on the basis of the consent obtained (Art. 6(1)(a) GDPR and § 25 (1) TTDSG); this consent may be revoked at any time.
 
-You have the option to set up your browser in such a manner that you will be notified any time cookies are placed and to permit the acceptance of cookies only in specific cases. You may also exclude the acceptance of cookies in certain cases or in general or activate the delete function for the automatic eradication of cookies when the browser closes. If cookies are deactivated, the functions of this website may be limited.
+You have the option to set up your browser in such a manner that you will be notified any time cookies are placed and to permit the acceptance of cookies only in specific cases. You may also exclude the acceptance of cookies in certain cases or in general or activate the delete-function for the automatic eradication of cookies when the browser closes. If cookies are deactivated, the functions of this website may be limited.
 
-In the event that third-party cookies are used or if cookies are used for analytical purposes, we will separately notify you in conjunction with this Data Protection Policy and, if applicable, ask for your consent.
+Which cookies and services are used on this website can be found in this privacy policy.
 
 #### Consent with Usercentrics
 
@@ -196,7 +224,7 @@ Usercentrics uses cookies to obtain the declarations of consent mandated by law.
 
 **Data processing**
 
-We have concluded a data processing agreement (DPA) with the above-mentioned provider. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.
+We have concluded a data processing agreement (DPA) for the use of the above-mentioned service. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.
 
 #### Server log files
 
@@ -212,24 +240,6 @@ The provider of this website and its pages automatically collects and stores inf
 This data is not merged with other data sources.
 
 This data is recorded on the basis of Art. 6(1)(f) GDPR. The operator of the website has a legitimate interest in the technically error free depiction and the optimization of the operator’s website. In order to achieve this, server log files must be recorded.
-
-### Cloudflare
-
-We use the “Cloudflare” service provided by Cloudflare Inc., 101 Townsend St., San Francisco, CA 94107, USA. (hereinafter referred to as “Cloudflare”).
-
-Cloudflare offers a content delivery network with DNS that is available worldwide. As a result, the information transfer that occurs between your browser and our website is technically routed via Cloudflare’s network. This enables Cloudflare to analyze data transactions between your browser and our website and to work as a filter between our servers and potentially malicious data traffic from the Internet.
-
-In this context, Cloudflare may also use cookies or other technologies deployed to recognize Internet users, which shall, however, only be used for the herein described purpose.
-
-The use of Cloudflare is based on our legitimate interest in a provision of our website offerings that is as error free and secure as possible (Art. 6(1)(f) GDPR).
-
-Data transmission to the US is based on the Standard Contractual Clauses (SCC) of the European Commission. Details can be found here: [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/).
-
-For more information on Cloudflare’s security precautions and data privacy policies, please follow this link: [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/).
-
-#### Data processing
-
-We have concluded a data processing agreement (DPA) with the above-mentioned provider. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.
 
 #### Contact form
 
@@ -247,29 +257,59 @@ These data are processed on the basis of Art. 6(1)(b) GDPR if your inquiry is re
 
 The data sent by you to us via contact requests remain with us until you request us to delete, revoke your consent to the storage or the purpose for the data storage lapses (e.g. after completion of your request). Mandatory statutory provisions - in particular statutory retention periods - remain unaffected.
 
+#### Use of Chatbots
+
+We use chatbots to communicate with you. Chatbots have the capability to respond to your questions and other entries without the assistance of humans. To do this, chatbots analyze your entries and other data to give matching responses (e.g., names, email addresses and other contact information, customer numbers and other identification, orders, and chat progresses). The chatbot can also register your IP address, log files, location information and other meta data. The data is archived on the servers of the chatbot provider.
+
+It is possible to generate user profiles based on the recorded data. Moreover, the data can be used to display interest-related advertising if the other legal requirements are met (in particular if consent has been obtained). Moreover, it is possible to link chatbots to analytical and advertising tools.
+
+The recorded data can also be used to improve our chatbots and their response patterns (machine learning).
+
+We or the chatbot operator retain the data you enter until you ask us to delete it, revoke your consent to archive it or if the purpose for the data storage is no longer in effect (e.g., once your inquiry has been fully processed). This does not affect mandatory statutory provisions – in particular, retention time frames.
+
+The legal basis for the use of chatbots is Art. 6(1)(b) GDPR, if the chatbot is used to negotiate a contract or in conjunction with the fulfillment of a contract. If appropriate consent has been obtained, the processing is carried out exclusively on the basis of Art. 6(1)(a) GDPR and § 25 (1) TTDSG, insofar the consent includes the storage of cookies or the access to information in the user’s end device (e.g., device fingerprinting) within the meaning of the TTDSG. This consent can be revoked at any time. In all other cases, the use is based on our legitimate interest in the most effective client communication possible (Art. 6(1)(f) GDPR).
+
+We use the following chatbots:
+
+### Zendesk Chatbot
+
+The provider is Zendesk GmbH c/o WeWork, Neue Schönhauser Str. 3-5, 10178 Berlin (hereinafter referred to as “Zendesk”).
+
+The Zendesk chatbot processes all information you have entered in conjunction with the interaction as well as other available data, such as contact information (e.g., email address and phone numbers), order data, order progressions, previous customer inquiries as well as customer numbers and other identifiers.
+
+The data processed in conjunction with communications is stored on Zendesk´s servers. This means that data may also be transferred to the parent company of Zendesk GmbH, specifically Zendesk, Inc., 989 Market St, San Francisco, California 94103-1612. Zendesk has Binding Corporate Rules (BCR) in place, which have been approved by the French Data Protection Agency.
+
+These are binding intra-corporate provisions that legitimize the in-company transfer of data to non-EU countries outside of the EU and the EEZ. For details, please click here: https://www.zendesk.de/blog/update-privacy-shield-invalidation-european-court-justice/..
+
+The Zendesk Data Privacy Policy can be found here: https://www.zendesk.com/company/customers-partners/privacy-policy/..
+
+#### Data processing
+
+We have concluded a data processing agreement (DPA) for the use of the above-mentioned service. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.
+
 ### 5. Newsletter
 
 #### Newsletter data
 
 If you would like to receive the newsletter offered on the website, we require an e-mail address from you as well as information that allows us to verify that you are the owner of the e-mail address provided and that you agree to receive the newsletter. Further data is not collected or only on a voluntary basis. For the handling of the newsletter, we use newsletter service providers, which are described below.
 
-#### Sendinblue
+#### Brevo
 
-This website uses Sendinblue for the sending of newsletters. The provider is the Sendinblue GmbH, Köpenicker Straße 126, 10179 Berlin, Germany.
+This website uses Brevo for the sending of newsletters. The provider is the Sendinblue GmbH, Köpenicker Straße 126, 10179 Berlin, Germany.
 
-Sendinblue services can, among other things, be used to organize and analyze the sending of newsletters. The data you enter for the purpose of subscribing to the newsletter are archived on Sendinblue’s servers in Germany.
+Brevo services can, among other things, be used to organize and analyze the sending of newsletters. The data you enter for the purpose of subscribing to the newsletter are archived on servers of Sendinblue GmbH in Germany.
 
-**Data analysis by Sendinblue**
+**Data analysis by Brevo**
 
-Sendinblue enables us to analyze our newsletter campaigns. For instance, it allows us to see whether a newsletter message has been opened and, if so, which links may have been clicked. This enables us to determine, which links drew an extraordinary number of clicks.
+Brevo enables us to analyze our newsletter campaigns. For instance, it allows us to see whether a newsletter message has been opened and, if so, which links may have been clicked. This enables us to determine, which links drew an extraordinary number of clicks.
 
 Moreover, we are also able to see whether once the e-mail was opened or a link was clicked, any previously defined actions were taken (conversion rate). This allows us to determine whether you have made a purchase after clicking on the newsletter.
 
-Sendinblue also enables us to divide the subscribers to our newsletter into various categories (i.e., to “cluster” recipients). For instance, newsletter recipients can be categorized based on age, gender, or place of residence. This enables us to tailor our newsletter more effectively to the needs of the respective target groups.
+Brevo also enables us to divide the subscribers to our newsletter into various categories (i.e., to “cluster” recipients). For instance, newsletter recipients can be categorized based on age, gender, or place of residence. This enables us to tailor our newsletter more effectively to the needs of the respective target groups.
 
-If you do not want to permit an analysis by Sendinblue, you must unsubscribe from the newsletter. We provide a link for you to do this in every newsletter message. Moreover, you can also unsubscribe from the newsletter right on the website.
+If you do not want to permit an analysis by Brevo, you must unsubscribe from the newsletter. We provide a link for you to do this in every newsletter message. Moreover, you can also unsubscribe from the newsletter right on the website.
 
-For detailed information on the functions of Sendinblue please follow this link: [https://www.sendinblue.com/newsletter-software/](https://www.sendinblue.com/newsletter-software/).
+For detailed information on the functions of Brevo please follow this link: [https://www.brevo.com/de/newsletter-software/](https://www.brevo.com/de/newsletter-software/).
 
 **Legal basis**
 
@@ -281,11 +321,11 @@ The data deposited with us for the purpose of subscribing to the newsletter will
 
 After you unsubscribe from the newsletter distribution list, your e-mail address may be stored by us or the newsletter service provider in a blacklist, if such action is necessary to prevent future mailings. The data from the blacklist is used only for this purpose and not merged with other data. This serves both your interest and our interest in complying with the legal requirements when sending newsletters (legitimate interest within the meaning of Art. 6(1)(f) GDPR). The storage in the blacklist is indefinite. **You may object to the storage if your interests outweigh our legitimate interest.**
 
-For more details, please consult the Data Protection Regulations of Sendinblue at: [https://de.sendinblue.com/datenschutz-uebersicht/](https://de.sendinblue.com/datenschutz-uebersicht/).
+For more details, please consult the Data Protection Regulations of Brevo at: [https://www.brevo.com/de/datenschutz-uebersicht/](https://www.brevo.com/de/datenschutz-uebersicht/) and [https://www.brevo.com/de/legal/privacypolicy/](https://www.brevo.com/de/legal/privacypolicy/).
 
 **Data processing**
 
-We have concluded a data processing agreement (DPA) with the above-mentioned provider. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.
+We have concluded a data processing agreement (DPA) for the use of the above-mentioned service. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.
 
 ### 6. Plug-ins and Tools
 
@@ -294,6 +334,20 @@ We have concluded a data processing agreement (DPA) with the above-mentioned pro
 This website uses so-called Google Fonts provided by Google to ensure the uniform use of fonts on this site. These Google fonts are locally installed so that a connection to Google’s servers will not be established in conjunction with this application.
 
 For more information on Google Fonts, please follow this link: [https://developers.google.com/fonts/faq](https://developers.google.com/fonts/faq) and consult Google’s Data Privacy Declaration under: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en).
+
+#### Google reCAPTCHA
+
+We use “Google reCAPTCHA” (hereinafter referred to as “reCAPTCHA”) on this website. The provider is Google Ireland Limited (“Google”), Gordon House, Barrow Street, Dublin 4, Ireland.
+
+The purpose of reCAPTCHA is to determine whether data entered on this website (e.g., information entered into a contact form) is being provided by a human user or by an automated program. To determine this, reCAPTCHA analyzes the behavior of the website visitors based on a variety of parameters. This analysis is triggered automatically as soon as the website visitor enters the site. For this analysis, reCAPTCHA evaluates a variety of data (e.g., IP address, time the website visitor spent on the site or cursor movements initiated by the user). The data tracked during such analyses are forwarded to Google.
+
+reCAPTCHA analyses run entirely in the background. Website visitors are not alerted that an analysis is underway.
+
+Data are stored and analyzed on the basis of Art. 6(1)(f) GDPR. The website operator has a legitimate interest in the protection of the operator’s websites against abusive automated spying and against SPAM. If appropriate consent has been obtained, the processing is carried out exclusively on the basis of Art. 6(1)(a) GDPR and § 25 (1) TTDSG, insofar the consent includes the storage of cookies or the access to information in the user’s end device (e.g., device fingerprinting) within the meaning of the TTDSG. This consent can be revoked at any time.
+
+For more information about Google reCAPTCHA please refer to the Google Data Privacy Declaration and Terms Of Use under the following links: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) and [https://policies.google.com/terms?hl=en](https://policies.google.com/terms?hl=en).
+
+The company is certified in accordance with the “EU-US Data Privacy Framework” (DPF). The DPF is an agreement between the European Union and the US, which is intended to ensure compliance with European data protection standards for data processing in the US. Every company certified under the DPF is obliged to comply with these data protection standards. For more information, please contact the provider under the following link: [https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true\&id=a2zt000000001L5AAI\&status=Active](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true\&id=a2zt000000001L5AAI\&status=Active)
 
 #### Zendesk
 
@@ -311,9 +365,11 @@ If you should not want to agree to the processing of your inquiries by us via Ze
 
 For more information, please consult Zendesk’s Data Privacy Declaration at: [https://www.zendesk.com/company/customers-partners/privacy-policy/](https://www.zendesk.com/company/customers-partners/privacy-policy/).
 
+The company is certified in accordance with the “EU-US Data Privacy Framework” (DPF). The DPF is an agreement between the European Union and the US, which is intended to ensure compliance with European data protection standards for data processing in the US. Every company certified under the DPF is obliged to comply with these data protection standards. For more information, please contact the provider under the following link: [https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true\&id=a2zt0000000TOjeAAG\&status=Active](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?contact=true\&id=a2zt0000000TOjeAAG\&status=Active)
+
 **Data processing**
 
-We have concluded a data processing agreement (DPA) with the above-mentioned provider. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.
+We have concluded a data processing agreement (DPA) for the use of the above-mentioned service. This is a contract mandated by data privacy laws that guarantees that they process personal data of our website visitors only based on our instructions and in compliance with the GDPR.
 
 ### 7. Custom Services
 
@@ -332,3 +388,64 @@ If your job application should result in your recruitment, the data you have sub
 If we are unable to make you a job offer or you reject a job offer or withdraw your application, we reserve the right to retain the data you have submitted on the basis of our legitimate interests (Art. 6(1)(f) GDPR) for up to 6 months from the end of the application procedure (rejection or withdrawal of the application). Afterwards the data will be deleted, and the physical application documents will be destroyed. The storage serves in particular as evidence in the event of a legal dispute. If it is evident that the data will be required after the expiry of the 6-month period (e.g., due to an impending or pending legal dispute), deletion will only take place when the purpose for further storage no longer applies.
 
 Longer storage may also take place if you have given your agreement (Article 6(1)(a) GDPR) or if statutory data retention requirements preclude the deletion.
+
+#### Our social media appearances
+
+**This privacy policy applies to the following social media presence**
+
+* https://twitter.com › swarmcapital
+* [https://de.linkedin.com/company/swarm-com](https://de.linkedin.com/company/swarm-com)
+
+**Data processing through social networks**
+
+We maintain publicly available profiles in social networks. The individual social networks we use can be found below.
+
+Social networks such as Facebook, Twitter etc. can generally analyze your user behavior comprehensively if you visit their website or a website with integrated social media content (e.g., like buttons or banner ads). When you visit our social media pages, numerous data protection-relevant processing operations are triggered. In detail:
+
+If you are logged in to your social media account and visit our social media page, the operator of the social media portal can assign this visit to your user account. Under certain circumstances, your personal data may also be recorded if you are not logged in or do not have an account with the respective social media portal. In this case, this data is collected, for example, via cookies stored on your device or by recording your IP address.
+
+Using the data collected in this way, the operators of the social media portals can create user profiles in which their preferences and interests are stored. This way you can see interest-based advertising inside and outside of your social media presence. If you have an account with the social network, interest-based advertising can be displayed on any device you are logged in to or have logged in to.
+
+Please also note that we cannot retrace all processing operations on the social media portals. Depending on the provider, additional processing operations may therefore be carried out by the operators of the social media portals. Details can be found in the terms of use and privacy policy of the respective social media portals.
+
+**Legal basis**
+
+Our social media appearances should ensure the widest possible presence on the Internet. This is a legitimate interest within the meaning of Art. 6 (1) lit. f GDPR. The analysis processes initiated by the social networks may be based on divergent legal bases to be specified by the operators of the social networks (e.g., consent within the meaning of Art. 6 (1) (a) GDPR).
+
+**Responsibility and assertion of rights**
+
+If you visit one of our social media sites (e.g., Facebook), we, together with the operator of the social media platform, are responsible for the data processing operations triggered during this visit. You can in principle protect your rights (information, correction, deletion, limitation of processing, data portability and complaint) vis-à-vis us as well as vis-à-vis the operator of the respective social media portal (e.g., Facebook).
+
+Please note that despite the shared responsibility with the social media portal operators, we do not have full influence on the data processing operations of the social media portals. Our options are determined by the company policy of the respective provider.
+
+**Storage time**
+
+The data collected directly from us via the social media presence will be deleted from our systems as soon as you ask us to delete it, you revoke your consent to the storage or the purpose for the data storage lapses. Stored cookies remain on your device until you delete them. Mandatory statutory provisions - in particular, retention periods - remain unaffected.
+
+We have no control over the storage duration of your data that are stored by the social network operators for their own purposes. For details, please contact the social network operators directly (e.g., in their privacy policy, see below).
+
+**Your rights**
+
+You have the right to receive information about the origin, recipient and purpose of your stored personal data at any time and free of charge. You also have the right to object, the right to data portability and the right to file a complaint with the responsible regulatory agency. Furthermore, you can request the correction, blocking, deletion and, under certain circumstances, the restriction of the processing of your personal data.
+
+**Individual social networks**
+
+**Twitter**
+
+We use the short message service Twitter. The provider is Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland.
+
+**You can customize your Twitter privacy settings in your user account. Click on the following link and log in:** [https://twitter.com/personalization](https://twitter.com/personalization).
+
+Data transmission to the US is based on the Standard Contractual Clauses (SCC) of the European Commission. Details can be found here: [https://gdpr.twitter.com/en/controller-to-controller-transfers.html](https://gdpr.twitter.com/en/controller-to-controller-transfers.html).
+
+For details, see the Twitter Privacy Policy: [https://twitter.com/privacy](https://twitter.com/de/privacy).
+
+**LinkedIn**
+
+We have a LinkedIn profile. The provider is the LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Ireland. LinkedIn uses advertising cookies.
+
+**If you want to disable LinkedIn advertising cookies, please use the following link:** [https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out).
+
+Data transmission to the US is based on the Standard Contractual Clauses (SCC) of the European Commission. Details can be found here: [https://www.linkedin.com/legal/l/dpa](https://www.linkedin.com/legal/l/dpa) and [https://www.linkedin.com/legal/l/eu-sccs](https://www.linkedin.com/legal/l/eu-sccs).
+
+For details on how they handle your personal information, please refer to LinkedIn's privacy policy: [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy).
