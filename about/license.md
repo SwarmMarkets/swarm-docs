@@ -7,7 +7,7 @@ In terms of regulatory licensing requirements, Swarm platform / Swarm Capital Gm
 * Placement Agent (section 1 para. 1 sentence 2 no. 2 KWG)
 * Crypto Custodian (section 1 para. 1a sentence 2 no. 6 KWG)
 
-Swarm Capital GmbH Branch Office Berlin has submitted applications to [German Federal Financial Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht / BaFin)](https://www.bafin.de/) under GZ: GIT2-K5000-157380-2020/0001
+Swarm Capital GmbH Branch Office Berlin has submitted applications to [German Federal Financial Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht / BaFin)](https://www.bafin.de/) under ZK 4-K 5000/03784#0002
 
 ####
 
