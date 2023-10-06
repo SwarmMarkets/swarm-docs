@@ -22,9 +22,9 @@ A wallet connects you to the Ethereum blockchain. Wallets enable users to easily
 
 It's important to understand that wallets don't have custody of users' funds. Wallets are simply a tool for managing assets held on the blockchain in a specific address. This is called _self-custody_. Users are responsible for their assets, private keys, passwords and any other information they have used or provided to set up a wallet. Other than the data users are required to share for identification purposes, Swarm will never request access to any other private information such as private keys or passwords.
 
-Swarm currently supports Metamask and many other web3 compatible wallets. [Learn more about wallets from ethereum.org](https://ethereum.org/en/wallets/).
+Swarm currently supports Metamask, Coinbase Wallet, Ledger, Trezor and many other web3 compatible wallets via the WalletConnect protocol. [Learn more about wallets from ethereum.org](https://ethereum.org/en/wallets/).
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Linking an existing MetaMask wallet:**
 

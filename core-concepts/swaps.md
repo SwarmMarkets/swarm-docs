@@ -16,7 +16,7 @@ After you sign off on the proxy contract set up, you will be taken back to the S
 
 Next, choose which token you want to swap to. Click on the "Select Token" button. You will see a pop-up like this appear:
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 For the following example, we'll be swapping from a token we've never swapped from before on Swarm (DAI). This will prompt you to approve Swarm handling of the specific token, which looks like this:
 

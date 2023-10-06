@@ -35,7 +35,7 @@ Swarm was founded by pioneers in area of digital securities and from the core fo
 
 **Katie Evans**, [LinkedIn](https://www.linkedin.com/in/katieevans91/)
 
-***
+
 
 {% content-ref url="terms/imprint.md" %}
 [imprint.md](terms/imprint.md)
