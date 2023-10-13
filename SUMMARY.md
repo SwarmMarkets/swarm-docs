@@ -37,7 +37,10 @@
 * [xTokens](reference/xtokens.md)
 * [Smart contracts](reference/smart-contracts.md)
 * [Audits](reference/smart-contract-audit.md)
-* [API / Subgraph](reference/api-subgraph.md)
+* [APIs](reference/api-subgraph/README.md)
+  * [Onboarding API](reference/api-subgraph/onboarding-api.md)
+  * [Subgraph](reference/api-subgraph/subgraph/README.md)
+    * [Onboarding API](reference/api-subgraph/subgraph/onboarding-api.md)
 
 ## About
 
