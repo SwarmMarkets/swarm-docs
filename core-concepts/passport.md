@@ -1,6 +1,6 @@
 # Passport
 
-Swarm is a licensed[\*](https://docs.swarm.markets/about/license) platform. This requires us to adhere to financial regulations that specify [where we can accept users from](../getting-started/faq.md#limitations), and what we need to know about a user before using the protocol. User information and onboarding processes are managed via Passport, your key to the world of licensed\* DeFi.
+In order to onboard on the platform we need to know about a user before using the protocol. User information and onboarding processes are managed via Passport.
 
 Passport contains a user's personal details, verifications, trading allowances, connected addresses and other important account information.
 
@@ -10,7 +10,7 @@ Setting up a **Business Account?** [**Learn more here**](businesses.md)**.** &#x
 
 ## Onboarding
 
-Onboarding is the process of setting up your Passport for licensed DeFi, and includes verifying your identity. It can be completed online in just a few minutes, similarly to opening a bank account.
+Onboarding is the process of setting up your Passport for DeFi, and includes verifying your identity. It can be completed online in just a few minutes, similarly to opening a bank account.
 
 ![](<../.gitbook/assets/image (37).png>)
 
@@ -24,7 +24,7 @@ It's important to understand that wallets don't have custody of users' funds. Wa
 
 Swarm currently supports Metamask, Coinbase Wallet, Ledger, Trezor and many other web3 compatible wallets via the WalletConnect protocol. [Learn more about wallets from ethereum.org](https://ethereum.org/en/wallets/).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Linking an existing MetaMask wallet:**
 
@@ -50,9 +50,7 @@ If you need to create a new MetaMask wallet, setting one up is easy. Add [Metama
 
 Our goal is to continuously improve the user experience on Swarm, and we know that identity verification is often a hassle. We've carefully selected our KYC partners to minimize the pain and get users up and running as quickly as possible.
 
-Users can currently select between two vendors for identity verification.
-
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="170"><figcaption></figcaption></figure>
 
 **Identity Verification with Sum and Substance**
 
@@ -61,10 +59,6 @@ Sum and Substance is an established KYC vendor that provides easy identity verif
 You will be led through a straightforward process of entering personal information, uploading your Identification Documents, and a facial biometrics scan to for comparison purposes, and to protect you and your account from fraud.
 
 Once account information is submitted, both automatic and manual checks are performed according to the Anti-Money Laundering and Financing Terrorism legislation that we are subject to as per our bank licensing regulations.
-
-**Identity Verification with Yes**
-
-Customers in Germany (and eventually in other EU countries) can also verify their identity with Yes.com using their online bank account information, which has already gone through rigorous KYC and compliance checks by their banking entity. Users will be asked to find their bank and then connect to their online bank account via their username and password on their online banking platform. When this information is verified, they will be brought back to the Swarm Passport page.<img src="../.gitbook/assets/image (11).png" alt="" data-size="original">
 
 **4. Verifying your email address**
 
