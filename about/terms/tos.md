@@ -10,7 +10,7 @@ Our Terms of Service contain these three parts:
 
 ### 1. SCOPE OF APPLICATION, TERMS, AND CONDITIONS OF THIRD PARTIES AND CONTRACTING PARTY
 
-These General Terms and Conditions (“**Swarm Markets T\&Cs**“) apply to all services and the software provided within the scope of the contractual relationship (“**Swarm Markets Contract**“) between Swarm Capital GmbH Branch Office Berlin (“**Swarm Markets**“) with its current address and the commercial register data according to the imprint on the website www.swarm.markets, its subpage, the web application under trade.swarm.markets (“**Swarm Markets Web Application**“), or any mobile application (Swarm Markets-Web-Application, mobile application and website together “**Platform**“) as a service provider and the sole proprietor or business entity as customer (“**Customer**“) with all contents, functions, services and rules (“**Swarm Markets Services**“, a service or software as a service, each a “**Swarm Markets Service**“). General Terms and Conditions of the Customer will only become a part of the Swarm Markets Contract if Swarm Markets expressly consents and approves this in writing.
+These General Terms and Conditions (“**Swarm Markets T\&Cs**“) apply to all services and the software provided within the scope of the contractual relationship (“**Swarm Markets Contract**“) between Swarm Capital GmbH Branch Office Berlin (“**Swarm Markets**“) with its current address and the commercial register data according to the imprint on the website www.swarm.com, its subpage, the web application under trade.swarm.com (“**Swarm Markets Web Application**“), or any mobile application (Swarm Markets-Web-Application, mobile application and website together “**Platform**“) as a service provider and the sole proprietor or business entity as customer (“**Customer**“) with all contents, functions, services and rules (“**Swarm Markets Services**“, a service or software as a service, each a “**Swarm Markets Service**“). General Terms and Conditions of the Customer will only become a part of the Swarm Markets Contract if Swarm Markets expressly consents and approves this in writing.
 
 With regards to the contract (“**Account Contract**“) between the Customer and Swarm Markets necessary for the establishment and use of the Account with the respective range of services (“**Account**“) as well as the other services provided by Swarm Markets, the General Terms and Conditions of Swarm Markets, agreed separately between the Customer and Swarm Markets, shall apply:
 
@@ -569,7 +569,7 @@ The Custodian has the right to suspend and/or terminate the custody services und
 
 15.8 The Custodian hereby informs the Customer that business-related and business necessary data will be collected, stored and processed within the scope of the German data protection laws. For further information on data protection please refer to the Privacy Policy as published on the website at https://www.swarm.com/privacy.
 
-As of 06/19/2023
+As of 11/20/2023
 
 ## **Contact Us**
 

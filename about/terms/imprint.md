@@ -7,7 +7,7 @@
 Swarm Capital GmbH\
 Branch Office Berlin\
 \
-Pestalozzistr. 3, 10625 Berlin, Germany\
+Witzlebenplatz, 14057 Berlin, Germany\
 Register: HRB 223542 B, Amtsgericht Berlin-Charlottenburg\
 TaxID: 29/625/02850
 
@@ -26,9 +26,7 @@ E-mail: [inbox@swarm.com](mailto:inbox@swarm.com)
 Swarm Capital GmbH\
 Branch Office Berlin\
 Philipp Pieper & Timo Lehes\
-Pestalozzistr. 3,\
-10625 Berlin,\
-Germany
+Witzlebenplatz, 14057 Berlin, Germany
 
 **Complaints:**
 
