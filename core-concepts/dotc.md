@@ -22,7 +22,7 @@ The smart contract replaces the need for financial intermediaries, typically fou
 
 In order to use dOTC you must be qualified on Swarm, including know-your-customer (KYC) and anti-money laundering (AML) checks.
 
-Sign up here at [trade.swarm.com](https://trade.swarm.com) or email us: [swarm@swarm.com](mailto:swarm@swarm.com).
+Sign up here at [app.swarm.com](https://app.swarm.com/dotc/) or email us: [swarm@swarm.com](mailto:swarm@swarm.com).
 
 ## Frequently asked questions
 
