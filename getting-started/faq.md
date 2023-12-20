@@ -123,7 +123,7 @@ Some platform transactions can result in a small percentage of your assets remai
 
 **How do I use or claim the balance in my proxy address?**
 
-When swapping or interacting with liquidity pools, the platform will automatically use any relevant balances from your proxy address before withdrawing funds from your user address. Therefore, the simplest way to minimize the balance in your proxy address is by transacting. You will always have the option to simply claim your entire proxy balance through your platform[ Wallet](https://trade.swarm.markets/wallet) at any time. In the meantime, balances in the proxy wallet count towards rewards calculations.
+When swapping or interacting with liquidity pools, the platform will automatically use any relevant balances from your proxy address before withdrawing funds from your user address. Therefore, the simplest way to minimize the balance in your proxy address is by transacting. You will always have the option to simply claim your entire proxy balance through your platform[ Wallet](https://app.swarm.com/wallets) at any time. In the meantime, balances in the proxy wallet count towards rewards calculations.
 
 **Does Swarm have a product roadmap?**
 
