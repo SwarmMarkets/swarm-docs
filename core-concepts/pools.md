@@ -20,7 +20,7 @@ Swarm uses proxy contracts to save you gas fees when transacting. Creating your 
 
 After you sign off on the proxy contract set up, you will be taken back to the Pools page.‌
 
-
+***
 
 ## **Adding liquidity to an existing pool**
 
