@@ -20,7 +20,7 @@ Users must hold a qualified Swarm passport to be able to interact with the xToke
 
 Here's an example of a simple transaction on the platform, demonstrating how xTokens are minted, distributed on the platform, and managed by the user's proxy wallet (CPK in the illustration below). In this transaction, the user is depositing 1000 SMT into a liquidity pool:
 
-![xToken minting and distribution in the transfer of a single asset to a liquidity pool](../../.gitbook/assets/xTokenTransactions\_Cropped.png)
+![xToken minting and distribution in the transfer of a single asset to a liquidity pool](../.gitbook/assets/xTokenTransactions\_Cropped.png)
 
 First, the original asset (in this case, SMT) is transferred from the user's web3 wallet address to their proxy wallet address (CPK). The proxy wallet then transfers the tokens to the xTokenWrapper, which initiates a minting of the xToken (xSMT) and sends it to the proxy wallet address. Then the pool proxy address (BPool Proxy) forwards the xSMT to the correct pool, completing the addition of liquidity to the pool. Pool tokens (xSPTs) that represent the user's proportion of the total pool’s liquidity are minted and sent back to the user’s proxy wallet.
 
@@ -71,6 +71,6 @@ The Swarm Protocol currently provides xToken wrapping for the following assets:
 
 ## Further Reading
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="xtokens.md" %}
+[xtokens.md](xtokens.md)
 {% endcontent-ref %}
