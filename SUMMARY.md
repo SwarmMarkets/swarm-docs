@@ -21,7 +21,6 @@
 * [Swaps](core-concepts/swaps.md)
 * [Pools](core-concepts/pools.md)
 * [dOTC](core-concepts/dotc.md)
-* [Liquid staking](core-concepts/liquid-staking.md)
 
 ## Advanced Topics <a href="#advanced" id="advanced"></a>
 
