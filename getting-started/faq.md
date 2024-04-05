@@ -70,10 +70,6 @@ Automated Market Maker (AMM)-based decentralized exchanges (DEX) have proven to 
 
 Swarm makes every effort to be as trustless as possible. The core AMM protocol is built on open and battle-tested code. To remain regulatory compliant, Swarm is mandated to qualify market participants and assets allowed into the protocol.
 
-**Under which regulation is Swarm operating?**
-
-In terms of regulatory licensing requirements, Swarm Capital GmbH operates under the exemption according to section 64y of the German Banking Act (Kreditwesengesetz – “KWG) and is regulated by the German Federal Financial Supervisory Authority (BaFin). [Learn More](https://docs.swarm.com/about/license)
-
 #### **Are there any limitations on using Swarm ?** <a href="#limitations" id="limitations"></a>
 
 Transacting on Swarm is currently not available for US persons (as defined[ here](https://en.wikipedia.org/wiki/United\_States\_person)) or persons that hold identities from other countries not serviced. US persons and users from non-serviced countries may connect a wallet and view their assets, but will not be able to set up a trading account.
