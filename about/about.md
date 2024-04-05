@@ -19,7 +19,7 @@ We live in times where technology enables individuals to come together in swarms
 
 ## Company Background
 
-The Swarm platform operates under regulatory license\* from the Federal Financial Supervisory Authority (BaFin) in Germany, provided to Swarm Capital GmbH Branch Office Berlin, and is supported by Swarm Markets GmbH (together “Swarm”).
+The Swarm platform is provided by Swarm Markets GmbH (together “Swarm”).
 
 Swarm was founded by pioneers in area of digital securities and from the core founding team of Swarm Network. Swarm is not affiliated to the Swarm Network.
 
