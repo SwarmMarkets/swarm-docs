@@ -2,32 +2,31 @@
 
 ## **Imprint / Legal Notice**
 
-### Information in accordance with Section 5 TMG\*\*:\*\*
+### Information:
 
 Swarm Capital GmbH\
-Branch Office Berlin\
-\
-Witzlebenplatz, 14057 Berlin, Germany\
-Register: HRB 223542 B, Amtsgericht Berlin-Charlottenburg\
-TaxID: 29/625/02850
+Landstr. 37\
+9490 FL-Vaduz\
+Liechtenstein\
+Register: FL-0002.608.155-1, Amtsgericht\
+TaxID: 2608155
 
 #### Represented by:
 
 Philipp Pieper (Managing Director)\
 Timo Lehes\
-Peter Schott
 
-#### Contact:
 
-E-mail: [inbox@swarm.com](mailto:inbox@swarm.com)
+**Contact:**\
+[inbox@swarm.com](mailto:inbox@swarm.com)
 
-#### Responsible for the content in accordance with § 18 MStV (Medienstaatsvertrag, German media treaty):
+#### Responsible for the content:
 
 Swarm Capital GmbH\
-Branch Office Berlin\
-Philipp Pieper & Timo Lehes\
-Witzlebenplatz, 14057 Berlin, Germany
-
+Landstr. 37\
+9490 FL-Vaduz\
+Liechtenstein\
+\
 **Complaints:**
 
 If you have a complaint about our products or services, it may be submitted to Swarm via the ZenDesk help widget located on [http://swarm.com](http://swarm.com). You may also notify us of your complaint by email at [complaints@swarm.com](mailto:complaints@swarm.com)
@@ -38,22 +37,11 @@ The European Commission provides a platform for online dispute resolution (ODR):
 
 We are not willing or obliged to participate in dispute resolution procedures before a consumer arbitration board.&#x20;
 
-### Competent supervisory authority
-
-As a financial institution with residence in Germany, we are under supervision of the German Federal Financial Supervisory Authority (Bundesanstalt für Finanzdienstleistungsaufsicht / BaFin).
-
-Bundesanstalt für Finanzdienstleistungs-/Wertpapier-Aufsicht (BaFin)\
-Graurheindorfer Straße 108, 53117 Bonn\
-Tel.: +49 (0) 228 41080\
-Fax: +49 (0) 228 41081550\
-E-Mail: [poststelle@bafin.de](mailto:%20poststelle@bafin.de)\
-[www.bafin.de](https://www.bafin.de)
-
 ## Notices
 
 ### Liability for content
 
-As a service provider we are responsible according to § 7 Abs.1 TMG for own contents on these sides according to the general laws. Pursuant to §§ 8 to 10 TMG, however, we as a service provider are not obliged to monitor transmitted or stored external information or to investigate circumstances that indicate illegal activity. Obligations to remove or block the use of information under general law remain unaffected. However, liability in this regard is only possible from the moment of knowledge of a specific infringement. Upon notification of appropriate violations, we will remove this content immediately.
+As a service provider we are responsible for own contents on these sides according to the general laws. We as a service provider are not obliged to monitor transmitted or stored external information or to investigate circumstances that indicate illegal activity. Obligations to remove or block the use of information under general law remain unaffected. However, liability in this regard is only possible from the moment of knowledge of a specific infringement. Upon notification of appropriate violations, we will remove this content immediately.
 
 ### Liability for links
 
@@ -61,9 +49,8 @@ Our offer contains links to external websites of third parties on whose contents
 
 ### Copyright
 
-The content and works on these pages created by the site operators are subject to German copyright law. The duplication, processing, distribution and any kind of exploitation outside the limits of copyright require the written consent of the respective author or creator. Downloads and copies of this site are for private, non-commercial use only. As far as the contents on this side were not created by the operator, the copyrights of third parties are considered. In particular contents of third parties are marked as such. Should you still be aware of a copyright infringement, we ask for a note. Upon notification of violations, we will remove such content immediately.
+The content and works on these pages created by the site operators are subject to Liechtenstein copyright law. The duplication, processing, distribution and any kind of exploitation outside the limits of copyright require the written consent of the respective author or creator. Downloads and copies of this site are for private, non-commercial use only. As far as the contents on this side were not created by the operator, the copyrights of third parties are considered. In particular contents of third parties are marked as such. Should you still be aware of a copyright infringement, we ask for a note. Upon notification of violations, we will remove such content immediately.
 
 ### Risk notice
 
-\
-The contractual opportunities presented on this site are not authorized for sale in all countries of the world. The information published on the Internet does not constitute an offer or solicitation in any jurisdiction in which such offer or solicitation is unlawful. Persons who are not in possession of the necessary authorizations may not make any offers or requests for offers that relate to the information published on the Internet. The information is also not directed at such persons to whom such an offer may not be made by law. The information provided does not constitute an investment recommendation or an invitation to buy or sell securities and cannot replace investment advice. Despite careful analysis, Swarm Capital GmbH assumes no responsibility for the content, timeliness, accuracy, completeness or quality of the information provided. Insofar as forward-looking statements are made in the information provided, in particular with regard to the price development of markets or securities, these are forecasts. Liability claims against Swarm Capital GmbH, which refer to material or non-material damage caused by the use or non-use of the information provided or by the use of incorrect or incomplete information, are generally excluded, unless there is evidence of wilful intent or gross negligence on the part of Swarm Capital GmbH. Swarm Capital GmbH and persons or companies associated with it may hold shares in the companies mentioned or buy and sell positions in day-to-day business, which may result in a possible conflict of interest. Stock exchange futures and derivatives involve risks that can lead to a total loss of the capital invested. A negative development cannot be ruled out despite the positive results of the past and the necessary diligence of those responsible for trading. An investment in the aforementioned asset classes (stock exchange futures / derivatives) should be selected with a view to asset diversification and should only represent a small proportion of total assets. Historical returns are no guarantee of future performance. Stock exchange transactions, in particular transactions in derivatives, involve considerable risks. As a content provider according to § 7 of the German Telemedia Act (TMG), Swarm Capital GmbH is responsible for its "own information" that it makes available for use. Swarm Capital GmbH carefully checks and constantly updates the information on its web pages. Despite this careful control, data may have changed in the meantime. Therefore, Swarm Capital GmbH does not assume any liability for the correctness, completeness and up-to-dateness of the contents of this website. Any liability of Swarm Capital GmbH, especially for possible damages or consequences resulting from the use of the contents of this website, is excluded. The same applies to links to websites of other providers (so-called "external links") and their content, which Swarm Capital GmbH provides in addition to its own content (§ 8 TMG). The setting of such links is not done with competitive intent. These external links are marked as such. Swarm Capital GmbH is not responsible for the content of websites that can be accessed via such links. Swarm Capital GmbH has no influence whatsoever on the content of the linked pages and accepts no liability for the content of external links. Swarm Capital GmbH does not initiate the transmission of information and does not select or change the addressee of the transmitted information or the transmitted information itself. Furthermore, Swarm Capital GmbH does not automatically store these external links for a short period of time as a result of the linking and calling method used. The responsibility for the content of the linked pages lies exclusively with the operators of the websites accessed through the external links. Binding, warranty: All offers are subject to change and non-binding. Swarm Capital GmbH reserves the right to change, amend or delete parts of this website or the entire offer.
+The contractual opportunities presented on this site are not authorized for sale in all countries of the world. The information published on the Internet does not constitute an offer or solicitation in any jurisdiction in which such offer or solicitation is unlawful. Persons who are not in possession of the necessary authorizations may not make any offers or requests for offers that relate to the information published on the Internet. The information is also not directed at such persons to whom such an offer may not be made by law. The information provided does not constitute an investment recommendation or an invitation to buy or sell securities and cannot replace investment advice. Despite careful analysis, Swarm Capital GmbH assumes no responsibility for the content, timeliness, accuracy, completeness or quality of the information provided. Insofar as forward-looking statements are made in the information provided, in particular with regard to the price development of markets or securities, these are forecasts. Liability claims against Swarm Capital GmbH, which refer to material or non-material damage caused by the use or non-use of the information provided or by the use of incorrect or incomplete information, are generally excluded, unless there is evidence of wilful intent or gross negligence on the part of Swarm Capital GmbH. Swarm Capital GmbH and persons or companies associated with it may hold shares in the companies mentioned or buy and sell positions in day-to-day business, which may result in a possible conflict of interest. Stock exchange futures and derivatives involve risks that can lead to a total loss of the capital invested. A negative development cannot be ruled out despite the positive results of the past and the necessary diligence of those responsible for trading. An investment in the aforementioned asset classes (stock exchange futures / derivatives) should be selected with a view to asset diversification and should only represent a small proportion of total assets. Historical returns are no guarantee of future performance. Stock exchange transactions, in particular transactions in derivatives, involve considerable risks. As a content provider, Swarm Capital GmbH is responsible for its "own information" that it makes available for use. Swarm Capital GmbH carefully checks and constantly updates the information on its web pages. Despite this careful control, data may have changed in the meantime. Therefore, Swarm Capital GmbH does not assume any liability for the correctness, completeness and up-to-dateness of the contents of this website. Any liability of Swarm Capital GmbH, especially for possible damages or consequences resulting from the use of the contents of this website, is excluded. The same applies to links to websites of other providers (so-called "external links") and their content, which Swarm Capital GmbH provides in addition to its own content. The setting of such links is not done with competitive intent. These external links are marked as such. Swarm Capital GmbH is not responsible for the content of websites that can be accessed via such links. Swarm Capital GmbH has no influence whatsoever on the content of the linked pages and accepts no liability for the content of external links. Swarm Capital GmbH does not initiate the transmission of information and does not select or change the addressee of the transmitted information or the transmitted information itself. Furthermore, Swarm Capital GmbH does not automatically store these external links for a short period of time as a result of the linking and calling method used. The responsibility for the content of the linked pages lies exclusively with the operators of the websites accessed through the external links. Binding, warranty: All offers are subject to change and non-binding. Swarm Capital GmbH reserves the right to change, amend or delete parts of this website or the entire offer.

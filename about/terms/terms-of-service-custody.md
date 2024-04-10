@@ -2,7 +2,7 @@
 
 ## **Custody Agreement for Crypto Custody Services**
 
-The following Custody Agreement applies to the Custodian's crypto custody service between Swarm Capital GmbH Branch Office Berlin and Customer. Customers are requested to read this Custody Agreement carefully to understand which provisions apply to them and how. This Custody Agreement is to be read in conjunction with the Custodian's [Terms of Service](tos.md) and [Privacy Policy](privacy.md).
+The following Custody Agreement applies to the Custodian's crypto custody service between Swarm Capital GmbH and Customer. Customers are requested to read this Custody Agreement carefully to understand which provisions apply to them and how. This Custody Agreement is to be read in conjunction with the Custodian's [Terms of Service](tos.md) and [Privacy Policy](privacy.md).
 
 ### GENERAL
 
@@ -56,9 +56,7 @@ they are solely responsible for obtaining all regulatory licenses, approvals and
 
 "Withdrawal Request" - a request sent to the Custodian by the Customer that specifies the type and amount of Custody Assets to be withdrawn from the Customer's Custody Account and the destination Blockchain Address.
 
-1.2       Interpretation
-
-&#x20;                       In this Custody Agreement:
+1.2       Interpretation in this Custody Agreement:
 
 1.2.1    where the context so admits, a reference to the singular includes the plural and vice versa;
 

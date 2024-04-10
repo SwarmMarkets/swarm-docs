@@ -10,7 +10,7 @@ Our Terms of Service contain these three parts:
 
 ### 1. SCOPE OF APPLICATION, TERMS, AND CONDITIONS OF THIRD PARTIES AND CONTRACTING PARTY
 
-These General Terms and Conditions (“**Swarm Markets T\&Cs**“) apply to all services and the software provided within the scope of the contractual relationship (“**Swarm Markets Contract**“) between Swarm Capital GmbH Branch Office Berlin (“**Swarm Markets**“) with its current address and the commercial register data according to the imprint on the website www.swarm.com, its subpage, the web application under trade.swarm.com (“**Swarm Markets Web Application**“), or any mobile application (Swarm Markets-Web-Application, mobile application and website together “**Platform**“) as a service provider and the sole proprietor or business entity as customer (“**Customer**“) with all contents, functions, services and rules (“**Swarm Markets Services**“, a service or software as a service, each a “**Swarm Markets Service**“). General Terms and Conditions of the Customer will only become a part of the Swarm Markets Contract if Swarm Markets expressly consents and approves this in writing.
+These General Terms and Conditions (“**Swarm Markets T\&Cs**“) apply to all services and the software provided within the scope of the contractual relationship (“**Swarm Markets Contract**“) between Swarm Capital GmbH (“**Swarm Markets**“) with its current address and the commercial register data according to the imprint on the website www.swarm.com, its subpage, the web application under trade.swarm.com (“**Swarm Markets Web Application**“), or any mobile application (Swarm Markets-Web-Application, mobile application and website together “**Platform**“) as a service provider and the sole proprietor or business entity as customer (“**Customer**“) with all contents, functions, services and rules (“**Swarm Markets Services**“, a service or software as a service, each a “**Swarm Markets Service**“). General Terms and Conditions of the Customer will only become a part of the Swarm Markets Contract if Swarm Markets expressly consents and approves this in writing.
 
 With regards to the contract (“**Account Contract**“) between the Customer and Swarm Markets necessary for the establishment and use of the Account with the respective range of services (“**Account**“) as well as the other services provided by Swarm Markets, the General Terms and Conditions of Swarm Markets, agreed separately between the Customer and Swarm Markets, shall apply:
 
@@ -202,7 +202,7 @@ If any provision of the Swarm Markets T\&Cs is or becomes invalid, the validity 
 
 ## **II. Special Conditions governing Transactions in Cryptographic Assets** <a href="#special-conditions-governing-transactions-in-cryptographic-assets" id="special-conditions-governing-transactions-in-cryptographic-assets"></a>
 
-These special conditions (hereinafter "Special Conditions") shall govern transactions in cryptographic assets between Swarm Capital GmbH Branch Office Berlin (“Service Partner" or "SP'") and its customer (hereinafter "Customer"/"Customers"). SP and Customer together shall be referred to as the "Parties"). These Special Conditions apply to the purchase or sale of cryptographic assets via Blockchain technology (hereinafter "Cryptographic Assets"). Eligible Cryptographic Assets are specified on the SP's webpage and updated regularly.
+These special conditions (hereinafter "Special Conditions") shall govern transactions in cryptographic assets between Swarm Capital GmbH (“Service Partner" or "SP'") and its customer (hereinafter "Customer"/"Customers"). SP and Customer together shall be referred to as the "Parties"). These Special Conditions apply to the purchase or sale of cryptographic assets via Blockchain technology (hereinafter "Cryptographic Assets"). Eligible Cryptographic Assets are specified on the SP's webpage and updated regularly.
 
 ### GENERAL
 
@@ -380,7 +380,7 @@ The SP settles securities trades within the country of Germany unless the follow
 
 ## **III. Custody Agreement for Crypto Currency Services**
 
-The following Custody Agreement applies to the Custodian's crypto custody service between Swarm Capital GmbH Branch Office Berlin (the "Custodian") and Customer. Customers are requested to read this Agreement carefully to understand which provisions apply to them and how. This Custody Agreement is to be read in conjunction with the Custodian's General Terms of Use, Special Conditions governing Transactions in Cryptographic Assets and Privacy Policy.
+The following Custody Agreement applies to the Custodian's crypto custody service between Swarm Capital GmbH (the "Custodian") and Customer. Customers are requested to read this Agreement carefully to understand which provisions apply to them and how. This Custody Agreement is to be read in conjunction with the Custodian's General Terms of Use, Special Conditions governing Transactions in Cryptographic Assets and Privacy Policy.
 
 Customers are reminded that
 
