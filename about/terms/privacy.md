@@ -107,11 +107,8 @@ We herewith advise you that the transmission of data via the Internet (i.e., thr
 The data processing controller on this website is:
 
 Swarm Capital GmbH\
-Philipp Pieper\
-Branch Office Berlin\
-Pestalozzistr. 3, 10625 Berlin, Germany
+Landstr. 37, 9490 FL-Vaduz
 
-Phone: \[Telefonnummer der verantwortlichen Stelle]\
 E-mail: inbox@swarm.com
 
 The controller is the natural person or legal entity that single-handedly or jointly with others makes decisions as to the purposes of and resources for the processing of personal data (e.g., names, e-mail addresses, etc.).
@@ -131,10 +128,8 @@ We have appointed a data protection officer.
 Swarm Capital GmbH\
 Dataprotection\
 Andre Stahl\
-Branch Office Berlin\
-Pestalozzistr. 3, 10625 Berlin, Germany
+Landstr. 37, 9490 FL-Vaduz
 
-Phone: +49 (0) 15146122998\
 E-mail: privacy@swarm.com
 
 #### Information on the data transfer to third-party countries that are not secure under data protection law and the transfer to US companies that are not DPF-certified
