@@ -41,8 +41,8 @@ Swarm was founded by pioneers in area of digital securities and from the core fo
 [imprint.md](terms/imprint.md)
 {% endcontent-ref %}
 
-{% content-ref url="license.md" %}
-[license.md](license.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Come Work with Us

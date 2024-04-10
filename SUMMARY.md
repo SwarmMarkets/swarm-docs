@@ -44,7 +44,6 @@
 ## About
 
 * [About us](about/about.md)
-* [Licenses](about/license.md)
 * [Careers](about/careers/README.md)
   * [Backend Developer](about/careers/backend-developer.md)
   * [Frontend Developer](about/careers/frontend-developer.md)
