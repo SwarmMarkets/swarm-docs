@@ -6,7 +6,7 @@ SMT is a payment token based on the ERC20 protocol on the Ethereum blockchain. S
 
 SMT is part of a virtuous circle of fee payments and [rewards](smt.md#rewards-pool) flowing through Swarm Markets. It has the following utilities:
 
-#### Reduced Protocol Fees <a href="#8d05" id="8d05"></a>
+#### Reduced Protocol Fees <a href="#id-8d05" id="id-8d05"></a>
 
 Traders can get 50% reduced protocol fees when they choose to pay using SMT. More details on the [fees page](../advanced/fees.md).
 
@@ -44,11 +44,12 @@ Swarm Markets will also distribute SMT to encourage activities that benefit the 
 * **Up to 50% of supply**: 125 million tokens (125,000,000 SMT)
 * **Launch Liquidity Program Providers:** 5 million tokens (5,000,000 SMT)
 * **Distribution:**
-  * Platform Rewards to (1) Liquidity provider rewards, (2) Trading rewards, (3) Loyalty rewards
+  * Platform Rewards to (1) Liquidity provider rewards, (2) RWA Holder rewards, (3) SMT Staking rewards
   * Rewards Pool tokens will be released weekly at a diminishing rate over a 100-year period according to a regression curve representing a 11% reduction per year
   * About 1.4% will be released in the first 90 days after TGE and at a diminishing rate thereafter, starting at a rate of slightly under 0.5% per month until all Rewards Pool tokens have been released.
 * **Rewards Distribution Logs:**
   * SMT reward distribution logs including a list of addresses and reward amounts are published regularly on the [Swarm Markets SMT Rewards Distribution](https://github.com/SwarmMarkets/smt-rewards-distribution) Github repo.
+* **Current Rewards Policy** may be found at [https://github.com/SwarmMarkets/smt-rewards-distribution/blob/main/policies/smt\_rd\_policy.md](https://github.com/SwarmMarkets/smt-rewards-distribution/blob/main/policies/smt\_rd\_policy.md)
 
 ### **Community Pool**
 
