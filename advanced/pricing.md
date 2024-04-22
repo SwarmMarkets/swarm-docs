@@ -6,7 +6,7 @@ Swarm pools are tokenized portfolios that function as AMMs.
 
 The primary changes made to the contract are only a permission layer that creates compatibility with Swarm Passports and whitelisted assets.
 
-![](<../.gitbook/assets/Swarm Markets - Deck CAC 202105 01.pptx.png>)
+<figure><img src="../.gitbook/assets/Networked Liquidity.png" alt=""><figcaption></figcaption></figure>
 
 ## How are prices determined?
 

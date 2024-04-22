@@ -6,7 +6,7 @@ description: Enhancing the AMM model by removing barriers.
 
 ![](../.gitbook/assets/How-it-works.png)
 
-Swarm is a licensed\* DeFi protocol. Our first product is an Automated Market Making (AMM) decentralized exchange (DEX) powered by the [Balancer Protocol](https://balancer.finance) and combined with compliance layers.
+Swarm is a compliant DeFi protocol. Our first product is an Automated Market Making (AMM) decentralized exchange (DEX) powered by the [Balancer Protocol](https://balancer.finance) and combined with compliance layers.
 
 Automated market makers are smart contracts that create a liquidity pool of ERC20 tokens that are automatically traded through an algorithm rather than an order book. This replaces a traditional limit order book with a system where assets can be automatically exchanged for the current price of the pool.
 
@@ -18,7 +18,7 @@ A little more simply, AMMs allow users with excess assets (liquidity providers) 
 
 While AMMs will be a cornerstone of the upcoming financial market, they have several conceptual and technical challenges. One key challenge is that open DeFi infrastructure creates significant barriers for institutional investors and headaches for regulators.
 
-Decentralized liquidity can only realize its full potential as a fundamental building block for DeFi and the broader financial community by overcoming these barriers. Swarm's compliance wrappers do exactly that, by qualifying users and digital assets into its licensed protocol.
+Decentralized liquidity can only realize its full potential as a fundamental building block for DeFi and the broader financial community by overcoming these barriers. Swarm's compliance wrappers do exactly that, by qualifying users and digital assets into its protocol.
 
 Preserving the compelling [benefits of AMMs](../reference/amm.md#key-advantages-of-amms) in combination with compliance brings players to the market that previously could not engage, further creating partnerships that allow for seamless user experiences and entirely new products to be brought to DeFi.
 

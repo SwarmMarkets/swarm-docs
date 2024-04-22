@@ -10,7 +10,7 @@ Any transaction on the Swarm Platform (e.g. the AMM) requires the use of a xToke
 
 Such wrapped token may just mirror the functionalities of the Token or can have different functionality which is the case for the xToken as described in the following.
 
-The xToken protocol checks that the address intending on transacting with the Token has permissions (i.e. is an onboarded user, has correct trading permissions as applicable to the given asset, etc) to interact with it. It acts as a permissioning layer for all transactions that take place on Swarm, allowing us to fulfill our regulatory obligations and keep user data secure and anonymous on the platform.
+The xToken protocol checks that the address intending on transacting with the Token has permissions (i.e. is an onboarded user, has correct trading permissions as applicable to the given asset, etc) to interact with it. It acts as a permissioning layer for all transactions that take place on Swarm, allowing us to fulfill our compliance obligations and keep user data secure and anonymous on the platform.
 
 The User has mandatorily a so-called proxy wallet address which is used to bundle transactions for efficiency and to save on transaction fees (see the FAQ on Proxy Contracts for more information). xTokens only are transferred to proxy wallet addresses or to pools but never to the wallet address of the User. xTokens can only be used on the Swarm platform for the purpose of either transacting with a pool or for liquidity providing into a pool. Therefore, xToken’s cannot leave the platform to be used in any other form, particularly it cannot be transferred into a wallet on the Swarm Platform or a wallet outside of it.&#x20;
 

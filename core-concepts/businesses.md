@@ -4,11 +4,11 @@ description: Business Accounts are now available on Swarm
 
 # Business Accounts
 
-As a regulated entity, Swarm employs institutional-grade compliance checks on all users, wallets and businesses. KYB or business verification is a mandatory requirement for financial institutions and other AML-regulated entities to verify the identities of their corporate clients.
+Swarm employs institutional-grade compliance checks on all users, wallets and businesses. KYB or business verification is a mandatory requirement for financial institutions and other entities to verify the identities of their corporate clients.
 
 By automating our know-your-business (KYB) protocol, we make the customer due diligence process more efficient.
 
-A business account on Swarm is a fully regulatory compliant trading account similar in functionality to individual accounts, allowing businesses to trade without limits on Swarm.
+A business account on Swarm is a compliant trading account similar in functionality to individual accounts, allowing businesses to trade without limits on Swarm.
 
 **How to set up a business account on Swarm**
 

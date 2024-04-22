@@ -255,21 +255,6 @@ SushiSwap launched SUSHI in August 2020. SUSHI governance information can be fou
 | Block explorer      | [https://etherscan.io/token/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2](https://etherscan.io/token/0x6b3595068778dd592e39a122f4f5a5cf09c90fe2) |
 | ITSA                | [https://itin.itsa.global/7B3MH64W0](https://itin.itsa.global/7B3MH64W0)                                                                       |
 
-### CEL
-
-CEL is the native token of the Celcius Network. The Celsius Network DeFi platform offers interest-bearing savings accounts, lending, and payments with digital and fiat assets. Platform rewards are paid in CEL and platform fees are discounted when paid in CEL.
-
-Celsius launched CEL in June 2018.&#x20;
-
-| Project Information |                                                                                                                                                |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| Maximum supply      | See block explorer                                                                                                                             |
-| Total supply        | See block explorer                                                                                                                             |
-| Whitepaper          | [https://celsius.network/static/celsius-whitepaper.pdf](https://celsius.network/static/celsius-whitepaper.pdf)                                 |
-| Website             | [https://celsius.network/](https://celsius.network/)                                                                                           |
-| Block explorer      | [https://etherscan.io/token/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d](https://etherscan.io/token/0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d) |
-| ITSA                | [https://itin.itsa.global/FWYQGBVQ5](https://itin.itsa.global/FWYQGBVQ5)                                                                       |
-
 ### SOL
 
 SOL is the native currency of Solana, a high throughput blockchain based on the Proof of History (PoH) and Proof of Stake (PoS) consensus. SOL is used to pay for transaction fees and staking in order to support the network.&#x20;

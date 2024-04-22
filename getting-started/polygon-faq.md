@@ -14,7 +14,7 @@ Swarm expanded to Polygon in order to make our platform more accessible to all t
 
 Polygon network transactions incur substantially lower fees than gas fees for Ethereum transactions, but rely on the same secure infrastructure of the Ethereum blockchain for settlement.
 
-Swarm is the first regulated decentralized exchange (DEX) available on the layer 2 solution, making it one of the cheapest and safest options for people wanting to participate in DeFi with the benefit of investor protections typical of the traditional finance industry.
+Swarm is the first comliant decentralized exchange (DEX) available on the layer 2 solution, making it one of the cheapest and safest options for people wanting to participate in DeFi with the benefit of investor protections typical of the traditional finance industry.
 
 #### What can I do on Polygon?
 
@@ -28,7 +28,7 @@ Polygon is one of the largest and most successful layer 2 solutions deployed to 
 
 #### **Who can access Swarm assets on Polygon?**
 
-All verified users on the Swarm platform can now use both Ethereum and Polygon networks. As a regulated platform, every user must verify their identity (KYC) and undergo standard regulatory checks before they are permitted to transact.
+All verified users on the Swarm platform can now use both Ethereum and Polygon networks. As a comliant platform, every user must verify their identity (KYC) and undergo standard compliance checks before they are permitted to transact.
 
 A list of eligible jurisdictions can be found on our General FAQ here: [https://docs.swarm.com/getting-started/faq#limitations](https://docs.swarm.markets/getting-started/faq#limitations).
 

@@ -58,10 +58,10 @@ Sum and Substance is an established KYC vendor that provides easy identity verif
 
 You will be led through a straightforward process of entering personal information, uploading your Identification Documents, and a facial biometrics scan to for comparison purposes, and to protect you and your account from fraud.
 
-Once account information is submitted, both automatic and manual checks are performed according to the Anti-Money Laundering and Financing Terrorism legislation that we are subject to as per our bank licensing regulations.
+Once account information is submitted, both automatic and manual checks are performed according to Anti-Money Laundering and Financing Terrorism legislation.
 
 **4. Verifying your email address**
 
-Once users have connected and verified their ETH wallet address and verified their identity, the last step in the onboarding process is to verify their email address. This is to prevent duplicate or fraudulent accounts, and will be checked against other information provided. \*\*\*\*
+Once users have connected and verified their ETH wallet address and verified their identity, the last step in the onboarding process is to verify their email address. This is to prevent duplicate or fraudulent accounts, and will be checked against other information provided.
 
 In most cases approval for initial limited trading is automatic and done in under 10 minutes. Unlimited trading may require extra verifications. Users should consult their Passport for specific instructions.

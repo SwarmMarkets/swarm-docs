@@ -28,7 +28,7 @@ Sign up here at [app.swarm.com](https://app.swarm.com/dotc/) or email us: [swarm
 
 #### What makes your dOTC offering different to others in the market?
 
-This is the first crypto block-trade smart contract from a regulated entity that institutions and professional investors can use in place of traditional over-the-counter (OTC) trading, which disintermediates trading.
+This is the first crypto block-trade smart contract from a compliant entity that institutions and professional investors can use in place of traditional over-the-counter (OTC) trading, which disintermediates trading.
 
 Our offering includes additional unique features such as:&#x20;
 
@@ -70,7 +70,7 @@ Discounts for paying fees in SMT will be introduced in future upgrades to the se
 
 dOTC simplifies one of the most complex areas of crypto OTC trading for large block trades.
 
-dOTC enables contract-based block trades for both crypto and upcoming regulated digital securities, with verified counterparties, extending cost and time savings available to high volume traders.
+dOTC enables contract-based block trades for both crypto and as well as real world assets, with verified counterparties, extending cost and time savings available to high volume traders.
 
 #### **What assets will be available to trade dOTC?**
 

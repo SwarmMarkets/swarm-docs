@@ -2,9 +2,9 @@
 
 **What is Swarm?**
 
-Swarm is a blockchain platform that brings unique tokenization and trading solutions to the world of traditional finance. Day to day, we work with real-world-asset owners to tokenize collateral and build trading infrastructure in a regulatory compliant way.&#x20;
+Swarm is a blockchain platform that brings unique tokenization and trading solutions to the world of traditional finance. Day to day, we work with real-world-asset owners to tokenize collateral and build trading infrastructure in a compliant way.&#x20;
 
-Swarm is the first organization in the world to offer tokenized US Treasury bills and public stocks that are tradable on a regulated and decentralized platform.
+Swarm is the first organization in the world to offer tokenized US Treasury bills and public stocks that are tradable on a complient and decentralized platform.
 
 **Who is Swarm for?**
 
@@ -16,7 +16,7 @@ Any individual or organization who wishes to onboard to Swarm must meet our Know
 
 **What makes Swarm different?**
 
-We can integrate blockchain with financial markets because we are regulated.
+We can integrate blockchain with financial markets because we are designed around compliance.
 
 Our hybrid model combines the advantages of blockchain-trading with the trust and asset-range typically enjoyed by traditional exchanges.
 
@@ -64,11 +64,11 @@ An AMM, or Automated Market Maker, is a general term that defines an algorithm f
 
 **What is the difference between Swarm and other AMMs?**
 
-Automated Market Maker (AMM)-based decentralized exchanges (DEX) have proven to be one of the most impactful DeFi innovations. While existing AMMs have created an exciting and thriving protocol layer, their activity is typically performed outside of financial market compliance. Swarm has created a regulatory layer on top of open DeFi protocols, starting with a multi-asset AMM solution pioneered by the[ Balancer protocol](https://balancer.finance)
+Automated Market Maker (AMM)-based decentralized exchanges (DEX) have proven to be one of the most impactful DeFi innovations. While existing AMMs have created an exciting and thriving protocol layer, their activity is typically performed outside of financial market compliance. Swarm has created a compliance layer on top of open DeFi protocols, starting with a multi-asset AMM solution pioneered by the[ Balancer protocol](https://balancer.finance)
 
 **Is Swarm decentralized?**
 
-Swarm makes every effort to be as trustless as possible. The core AMM protocol is built on open and battle-tested code. To remain regulatory compliant, Swarm is mandated to qualify market participants and assets allowed into the protocol.
+Swarm makes every effort to be as trustless as possible. The core AMM protocol is built on open and battle-tested code. To remain compliant, Swarm is mandated to qualify market participants and assets allowed into the protocol.
 
 #### **Are there any limitations on using Swarm ?** <a href="#limitations" id="limitations"></a>
 
@@ -80,7 +80,7 @@ Swarm is currently available to users resident in Argentina, Armenia, Australia,
 
 Firstly, to serve any market participants who value the core benefits of DeFi (self-custody, transparency, participation), but want to remain compliance confident and keep their digital assets future-proof
 
-Secondly, on the basis of Swarm's regulatory compliant protocol layer, entirely new financial products can be launched and offered, extending DeFi pretty much to any financial asset and to integrate with financial institutions.
+Secondly, on the basis of Swarm's compliant protocol layer, entirely new financial products can be launched and offered, extending DeFi pretty much to any financial asset and to integrate with financial institutions.
 
 **I do not have crypto. Where do I start?**
 
