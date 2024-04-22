@@ -196,8 +196,6 @@ Swarm Markets may entrust third parties with the performance of its obligations 
 
 The laws of the Federal Republic of Germany shall apply (under exclusion of the UN Convention on Contracts for the International Sale of Goods).
 
-The exclusive place of jurisdiction for all disputes arising out of or in connection with the Swarm Markets Contract (including the Swarm Markets T\&Cs) is Berlin, if the Customer is a merchant, a legal entity under public law or a special fund under public law. This also applies to the enforcement of Swarm Markets’ rights against the Customer.
-
 If any provision of the Swarm Markets T\&Cs is or becomes invalid, the validity of the remaining provisions of the Swarm Markets T\&Cs shall not be affected thereby. The invalid provision shall be replaced by the parties to the contract by mutual consent by a provision which comes closest to the economic purpose of the invalid provision in a legally effective manner. The above provision shall apply accordingly in the event of loopholes.
 
 ## **II. Special Conditions governing Transactions in Cryptographic Assets** <a href="#special-conditions-governing-transactions-in-cryptographic-assets" id="special-conditions-governing-transactions-in-cryptographic-assets"></a>
