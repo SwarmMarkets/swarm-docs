@@ -1,18 +1,18 @@
 # Smart contracts
 
-The Swarm smart contracts can currently be found in our Github developer repo at [https://github.com/SwarmMarkets/trade-smart-contracts](https://github.com/SwarmMarkets/trade-smart-contracts)
+The Swarm smart contracts can currently be found below:
 
 ## Smart contract and current configurations
 
 | Smart contract        | Ethereum address                                                                 | Polygon address                                                                 |
 | --------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Deployer              | 0xbeAeE712741c7f99B64B798Ca127FE776d491FB4                                       | 0xbeAeE712741c7f99B64B798Ca127FE776d491FB4                                      |
+| Deployer              | 0x5c573e7eE69926B79Be8283E4c421Ccca288bC06                                       | 0x5c573e7eE69926B79Be8283E4c421Ccca288bC06                                      |
 | Authorization         | 0xeFbcbD94d9C411E3f0FFa559CE627498122aCA82                                       | 0x218dd2d11cfdea1206821ea72a512641cf62ec03                                      |
 | Operations Registry:  | 0xd641ae2aD8a0e72AD92dDEda7CEF67eE3f2A49b9                                       | 0xc6f8f00a0008CAaB78762EAB89f19Bfe1AB58561                                      |
 | Permission Items:     | 0xB441417E6ff3ACf60B9F0216D8c3179913080dAa                                       | 0xCE07D5B55EE08a70A5D8786e9b6540b98fB2E740                                      |
 | Permission Manager:   | 0xE214d97ba7fF83144699737f73D271C006013d91                                       | 0x2dDe22CbF81844492b5f29a2938ab075a8224Ef5                                      |
-| XTokenWrapper:        | 0x247D082CD7649098d377Ff8812D84aA354b55c14                                       | 0x6cDDe4eD9165405c1914b229d3cD4Ac9C354C331                                      |
-| XTokenFactory:        | 0xE1532De8fa6EAd8aF4e461a9c3C9544c938F33B5                                       | 0xBf3bec2A8f6327b91A6706a63dB7B8b478c8cc12                                      |
+| XTokenWrapper:        | 0x2b9dc65253c035Eb21778cB3898eab5A0AdA0cCe                                       | 0x6cDDe4eD9165405c1914b229d3cD4Ac9C354C331                                      |
+| XTokenFactory:        | 0x20bF447fe55aC3718538E89C8C32396b174E82A6                                       | 0xAf09a8Af8dD670E4b801b55cd9781E4080162E08                                      |
 | BPoolProxy:           | 0x5321647F3c3769bc7bb9e10aB10d7F5C2E402c56                                       | 0x174Ac59f7071e1264b6B21Cb7FdC8FA00ae1ef3C                                      |
 | BRegistry:            | 0x8133EEB249F0636bba0B8230Ba1089a219263c04                                       | 0x329d3BD0F32C5B889b03aF87c5eD96aC0f22D3C8                                      |
 | ProtocolFee:          | [250000000000000000](https://etherscan.io/unitconverter?wei=250000000000000000)  | [250000000000000000](https://etherscan.io/unitconverter?wei=250000000000000000) |
