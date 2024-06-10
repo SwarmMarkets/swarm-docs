@@ -23,11 +23,6 @@ The following assets are currently authorized for trading on Swarm:
 | **SMT**      | 0xE631DABeF60c37a37d70d3B4f812871df663226f |
 | **WMATIC**   | 0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270 |
 | **Link**     | 0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39 |
-| **SOL**      | 0xd93f7E271cB87c23AaA73edC008A79646d1F9912 |
-| **SOLsn**    | 0x08Bf1DAC72EAE7FC2c407123038f4563FD79C3ad |
-| **NEARsn**   | 0x3fA010f813ccdE2597cf907df714B3A8743028eF |
-| **DOTsn**    | 0x8Ce654f90aCe2AB4C5C512010C314B5C6E15Cc77 |
-| **ETH2sn**   | 0x345d87F34b7B830d89C2a98D89a2A0AF54bB6fD0 |
 | **AAPL**     | 0xa13e07B145Cd28294447DD271Ea0F158727976bE |
 | **TSLA**     | 0x7FCFa7F21c9390eEB2C0158A892B817bCA5FBafb |
 | **TBONDS01** | 0xf4D24F4E0Ce54760788B0A0FB352BCC34e7d045f |
@@ -39,5 +34,6 @@ The following assets are currently authorized for trading on Swarm:
 | **INTC**     | 0x4BCDb11ac9Ed682db431cCdddbdB0Ea7d6a0F9D2 |
 | **CPNG**     | 0xE979088BA73977EE0095A30A43F44AEC1D45cA0e |
 | **BLK**      | 0x7F72de249ed11d8d33845B8459105caf6ac604A5 |
+| GME          | 0x4b1e0b764Be948D5518a31AE9F578248331eFd72 |
 
 To enquire about listing a new asset, contact [swarm@swarm.com](mailto:swarm@swarm.com)
