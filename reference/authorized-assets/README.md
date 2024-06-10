@@ -22,7 +22,6 @@ The following assets are currently authorized for trading on Swarm:
 | **DAI**      | 0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063 |
 | **SMT**      | 0xE631DABeF60c37a37d70d3B4f812871df663226f |
 | **WMATIC**   | 0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270 |
-| **Link**     | 0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39 |
 | **AAPL**     | 0xa13e07B145Cd28294447DD271Ea0F158727976bE |
 | **TSLA**     | 0x7FCFa7F21c9390eEB2C0158A892B817bCA5FBafb |
 | **TBONDS01** | 0xf4D24F4E0Ce54760788B0A0FB352BCC34e7d045f |
@@ -34,6 +33,6 @@ The following assets are currently authorized for trading on Swarm:
 | **INTC**     | 0x4BCDb11ac9Ed682db431cCdddbdB0Ea7d6a0F9D2 |
 | **CPNG**     | 0xE979088BA73977EE0095A30A43F44AEC1D45cA0e |
 | **BLK**      | 0x7F72de249ed11d8d33845B8459105caf6ac604A5 |
-| GME          | 0x4b1e0b764Be948D5518a31AE9F578248331eFd72 |
+| **GME**      | 0x4b1e0b764Be948D5518a31AE9F578248331eFd72 |
 
 To enquire about listing a new asset, contact [swarm@swarm.com](mailto:swarm@swarm.com)
