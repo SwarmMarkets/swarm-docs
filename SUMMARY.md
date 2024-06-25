@@ -4,7 +4,6 @@
 
 ## Getting Started
 
-* [Swarm DEX](getting-started/how-swarm-works.md)
 * [Market Participants](getting-started/market-participants.md)
 * [FAQ](getting-started/faq.md)
 * [Polygon FAQ](getting-started/polygon-faq.md)
@@ -18,22 +17,12 @@
 * [Passport](core-concepts/passport.md)
 * [Business Accounts](core-concepts/businesses.md)
 * [Wallet](core-concepts/wallet.md)
-* [Swaps](core-concepts/swaps.md)
-* [Pools](core-concepts/pools.md)
 * [dOTC](core-concepts/dotc.md)
-
-## Advanced Topics <a href="#advanced" id="advanced"></a>
-
-* [Pricing](advanced/pricing.md)
-* [Fees](advanced/fees.md)
 
 ## Reference
 
-* [Protocol overview](reference/protocol.md)
-* [AMM](reference/amm.md)
 * [Authorized Assets](reference/authorized-assets/README.md)
   * [Crypto Assets](reference/authorized-assets/crypto-assets.md)
-* [xTokens](reference/xtokens.md)
 * [Smart contracts](reference/smart-contracts.md)
 * [Audits](reference/smart-contract-audit.md)
 * [APIs](reference/apis/README.md)

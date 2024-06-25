@@ -18,10 +18,6 @@ Swarm clients place a buy or sell order into the market for eligible assets, usi
 
 The smart contract replaces the need for financial intermediaries, typically found in complex and costly OTC trading arrangements in traditional financial markets.
 
-#### How can I access dOTC?
-
-In order to use dOTC you must be qualified on Swarm, including know-your-customer (KYC) and anti-money laundering (AML) checks.
-
 Sign up here at [app.swarm.com](https://app.swarm.com/dotc/) or email us: [swarm@swarm.com](mailto:swarm@swarm.com).
 
 ## Frequently asked questions
@@ -58,9 +54,9 @@ Our offering includes additional unique features such as:&#x20;
 
 #### What is the fee for dOTC?
 
-Fees for dOTC trading are 0.3% and are paid by the Maker only in the case of an offer being successfully taken. Canceled offers are not subject to any fees.
+Fees for dOTC trading are 0.25% and are paid by the Maker only in the case of an offer being successfully taken. Canceled offers are not subject to any fees.
 
-When making an offer, the Maker enters a price and is provided a quote for the expected amount of asset they would receive if the offer is taken, less the 0.3% fee.
+When making an offer, the Maker enters a price and is provided a quote for the expected amount of asset they would receive if the offer is taken, less the 0.25% fee.
 
 #### Will SMT discounts be available on dOTC?
 

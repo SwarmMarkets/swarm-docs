@@ -6,13 +6,11 @@ SMT is a payment token based on the ERC20 protocol on the Ethereum blockchain. S
 
 SMT is part of a virtuous circle of fee payments and [rewards](smt.md#rewards-pool) flowing through Swarm Markets. It has the following utilities:
 
-#### Reduced Protocol Fees <a href="#id-8d05" id="id-8d05"></a>
+#### Liquidity and Staking Rewards
 
-Traders can get 50% reduced protocol fees when they choose to pay using SMT. More details on the [fees page](../advanced/fees.md).
+Special incentives are built into the token economy to reward liquidity providers who provide liquidity across the platform.
 
-#### Liquidity Rewards
-
-Special incentives are built into the token economy to reward liquidity providers who provide liquidity across the platform. Since these liquidity providers take on a higher risk by putting up their assets on a new platform, they earn rewards in return for seeding viable markets on Swarm.
+Staking Rewards are based on each address's amount of $SMT staked against a specific RWA, calculated using the RWA's Market Cap (TVL) as a proportion of total RWA Market Cap, prorated against all $SMT stakes against the specific RWA.
 
 #### Loyalty Level Rewards
 

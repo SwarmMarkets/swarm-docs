@@ -18,7 +18,7 @@ Swarm is the first comliant decentralized exchange (DEX) available on the layer 
 
 #### What can I do on Polygon?
 
-Verified users can swap assets and create liquidity pools of assets. All future Swarm products will support Polygon as well as Ethereum.
+All users can swap assets. All future Swarm products will support Polygon as well as Ethereum.
 
 #### Is Polygon safe?
 
@@ -28,7 +28,7 @@ Polygon is one of the largest and most successful layer 2 solutions deployed to 
 
 #### **Who can access Swarm assets on Polygon?**
 
-All verified users on the Swarm platform can now use both Ethereum and Polygon networks. As a comliant platform, every user must verify their identity (KYC) and undergo standard compliance checks before they are permitted to transact.
+All users on the Swarm platform can now use both Ethereum and Polygon networks. As a compliant platform, every user must verify their identity (KYC) and undergo standard compliance checks before they are permitted to buy RWAs. After initial issuance, RWA tokens are freely transferable.
 
 A list of eligible jurisdictions can be found on our General FAQ here: [https://docs.swarm.com/getting-started/faq#limitations](https://docs.swarm.markets/getting-started/faq#limitations).
 
@@ -63,14 +63,10 @@ Please see the section [authorized-assets](../reference/authorized-assets/ "ment
 
 Yes, watch out for our announcements in the coming weeks about new assets we are adding to the platform
 
-#### How are liquidity provider, trading rewards and loyalty levels calculated on the Polygon network?
+#### How are rewards and loyalty levels calculated on the Polygon network?
 
 Please refer to the latest [official SMT rewards](https://github.com/SwarmMarkets/smt-rewards-distribution/blob/main/policies/smt\_rd\_policy.md) policy for full details.
 
 In brief, rewards will be calculated and distributed based on the liquidity, trading history and SMT balance of each address per network.
 
 This means that if you have provided liquidity using the same address on both Ethereum and Polygon networks, this will be treated as two separate addresses. Rewards will be distributed and be claimable on each respective network. To benefit from Loyalty Level bonuses, you will need to hold SMT in each address/network combination.
-
-#### Can I use the SMT discount on Polygon? If so, which version of SMT can I use ?
-
-Yes, the 50% protocol fee discount is available when trading certain asset pairs on Polygon. If you hold SMT (Polygon) in your connected address, make sure you have the discount enabled in the Swap page and the platform will automatically use it for your discount.

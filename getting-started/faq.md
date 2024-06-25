@@ -26,11 +26,11 @@ All investment carries risk. Swarm offers investment opportunities in traditiona
 
 #### How does Swarm make money?[​](https://docs.ondo.finance/faq#how-does-ondo-make-money)
 
-Traders pay fees to liquidity providers for swapping assets. The pool creators set their own swap fee. 25% of the pool's swap fees or 0.1% of the assets being swapped, whichever is larger, will be made claimable to Swarm.&#x20;
+Swarm generates revenue through issuance and redemption fees for RWAs.
 
 **Do I need crypto to buy tokenized securities on Swarm?**
 
-Users will need to purchase security tokens using USDC on Polygon. Once pools are created by users, any asset listed on Swarm can be swapped for security tokens.
+Users will need to purchase security tokens using USDC on Polygon.
 
 **Can I buy these tokens with fiat?**
 
@@ -58,17 +58,9 @@ Presently we don't have a license to transfer real underlying stocks directly to
 
 While decentralized finance and AMMs have been somewhat battle tested, they are very new protocol technologies. Swarm is introducing new layers that could introduce both additional risk and de-risk in certain use cases. We are taking every precaution and doing[ extensive audits](https://app.gitbook.com/@swarm/s/swarm-markets/reference/smart-contracts/smart-contract-audit).
 
-**What is an AMM?**
-
-An AMM, or Automated Market Maker, is a general term that defines an algorithm for creating and managing liquidity. [Learn More](https://docs.swarm.com/reference/amm)
-
-**What is the difference between Swarm and other AMMs?**
-
-Automated Market Maker (AMM)-based decentralized exchanges (DEX) have proven to be one of the most impactful DeFi innovations. While existing AMMs have created an exciting and thriving protocol layer, their activity is typically performed outside of financial market compliance. Swarm has created a compliance layer on top of open DeFi protocols, starting with a multi-asset AMM solution pioneered by the[ Balancer protocol](https://balancer.finance)
-
 **Is Swarm decentralized?**
 
-Swarm makes every effort to be as trustless as possible. The core AMM protocol is built on open and battle-tested code. To remain compliant, Swarm is mandated to qualify market participants and assets allowed into the protocol.
+Swarm makes every effort to be as trustless as possible. The core protocol is built on open and battle-tested code.
 
 #### **Are there any limitations on using Swarm ?** <a href="#limitations" id="limitations"></a>
 
@@ -92,14 +84,11 @@ If you have trouble loading the platform, connecting your Web3 wallet ,or any ot
 
 We recommend disabling enhanced tracking protections (including any adblockers) for our web app only so that other tracking protection is unaffected for other internet browsing. No cross-site tracking, cryptominers, or any hidden software are implemented on the platform web app.
 
-**Why might my swap be expected to fail?**
+**Why might my transaction be expected to fail?**
 
 If you receive a general error message that your swap is expected to fail, it may be due to:
 
 * Authorization not yet set: If you just completed Quickstart onboarding, please allow the protocol a minute or two to authorize your address on the blockchain. You will receive an email as soon as this is complete.
-* Trading Limit: If you haven't fully completed setting up your Passport, your account trading limit is set to a total of 5,000 EUR. All transactions on the platform (swaps, adding and removing liquidity) count towards your limit. Check your passport for instructions on how to remove this limit.
-* Low liquidity: One of the pools required to fulfil your swap has insufficient liquidity to complete your order.
-* High Slippage: Low liquidity can also result in high slippage, meaning that the actual price may be significantly unfavorable compared with the expected price. Try increasing your acceptable slippage level in advanced settings. Note that this could result in an unfavorable swap price.
 
 **What are proxy contracts and atomic transactions?**
 
@@ -120,10 +109,6 @@ Some platform transactions can result in a small percentage of your assets remai
 **How do I use or claim the balance in my proxy address?**
 
 When swapping or interacting with liquidity pools, the platform will automatically use any relevant balances from your proxy address before withdrawing funds from your user address. Therefore, the simplest way to minimize the balance in your proxy address is by transacting. You will always have the option to simply claim your entire proxy balance through your platform[ Wallet](https://app.swarm.com/wallets) at any time. In the meantime, balances in the proxy wallet count towards rewards calculations.
-
-**Does Swarm have a product roadmap?**
-
-Here is a [framework of what we are working on in 2023](https://swarm.com/roadmap-2023/).
 
 \
 \

@@ -29,11 +29,11 @@ Swarm was founded by pioneers in area of digital securities and from the core fo
 
 **Timo Lehes**, [LinkedIn](https://www.linkedin.com/in/timolehes/)
 
+**Katie Evans**, [LinkedIn](https://www.linkedin.com/in/katieevans91/)
+
 **Peter Schott Ghyssaert Aceves**, [LinkedIn](https://www.linkedin.com/in/peter-schott-ghyssaert-aceves-9463a226/)
 
 **Dr. Wolfgang Richter**, [LinkedIn](https://www.linkedin.com/in/wolfgang-richter-74004736/)
-
-**Katie Evans**, [LinkedIn](https://www.linkedin.com/in/katieevans91/)
 
 ***
 
