@@ -10,8 +10,6 @@ By introducing these new tools, integrations and asset onramps, we believe we ca
 
 Imagine a single market with assets from the traditional finance world paired with the power of DeFi applications. Trading crypto assets (BTC/ETH/DAI) with asset tokens (gold, real estate or other real world assets) and with tokenized stocks and more... For the first time ever, you can trade a market like gold/BTC in a unified market infrastructure.
 
-Different from conventional practice in the industry, we operate a licensed[\*](https://docs.swarm.markets/about/license) [for-profit entity](about/about.md), which also permits new types of business integrations, institutional engagement and more.
-
 ## Getting started
 
 {% content-ref url="broken-reference" %}
