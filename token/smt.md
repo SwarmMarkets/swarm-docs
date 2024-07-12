@@ -18,11 +18,13 @@ Loyalty Level Rewards are paid to SMT holders according to the ratio of SMT to o
 
 ![](<../.gitbook/assets/image (21).png>)
 
-
-
 **Other Incentives**
 
 Swarm Markets will also distribute SMT to encourage activities that benefit the platform as a whole but may not fit one of the above criteria.
+
+**Governance**
+
+SMT holders an to participate in key decisions about the $SMT token, rewards policies, and the Swarm common goods services.
 
 ### **Key Data**
 
@@ -76,6 +78,14 @@ vSMT holders are able to unwrap and convert 20% of their holdings at the Token G
 #### Vesting Dates: Monday, November 1st, 2021 Tuesday, February 1st, 2022 Tuesday, 3 May 2022 Tuesday, 2 August 2022
 
 _Note: all vesting events will take place according to block date, not calendar date. As such, the calendar date schedule listed above is an approximation only. Depending on the pace of mining on the Ethereum blockchain, the block date may be earlier or later than the estimated calendar date._
+
+## Governance
+
+At [vote.swarm.com](http://vote.swarm.com/) or directly at [snapshot](https://snapshot.org/#/swarm-com.eth/proposal/0xca4c31432f733cf43358df91d99c56a299ce0cc9338fcd4b8f8bc89f7da7d02e) SMT holders can participate in key decisions about the $SMT token, rewards policies, and the Swarm common goods services.
+
+Swarm Markets DAO has been set up and registered in Marshall Islands. SMT token reserves are governed by eligible members of the Swarm Markets DAO LLC formed under the Associations Law, 52 MIRC, Part 1, of the Republic of the Marshall Islands and under License Number RMI-2024-65 under the Foreign Investment Business License Act.
+
+{% file src="../.gitbook/assets/Swarm Markets DAO LLC - Corporate Charter and FIBL (1).pdf" %}
 
 ## Unwrapping vSMT to SMT
 
