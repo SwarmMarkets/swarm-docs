@@ -1,5 +1,9 @@
 # SMT
 
+{% hint style="info" %}
+There is a new governance utility has been proposed here with significant changes to the rewards policy and burning 1/3 of the token supply. Read more here: [https://medium.com/swarm-com/swarm-adds-governance-to-smt-utility-and-proposes-to-burn-%E2%85%93-of-all-tokens-59f430a3db07](https://medium.com/swarm-com/swarm-adds-governance-to-smt-utility-and-proposes-to-burn-%E2%85%93-of-all-tokens-59f430a3db07)
+{% endhint %}
+
 ## **Overview**
 
 SMT is a payment token based on the ERC20 protocol on the Ethereum blockchain. SMT facilitates simplified transactions and provides a discount and reward mechanism for the Swarm platform.
@@ -28,16 +32,21 @@ SMT holders an to participate in key decisions about the $SMT token, rewards pol
 
 ### **Key Data**
 
-| **Ticker**                         | SMT                                                                      |
-| ---------------------------------- | ------------------------------------------------------------------------ |
-| **Type**                           | ERC20                                                                    |
-| **SMT token contract (Ethereum)**  | 0xb17548c7b510427baac4e267bea62e800b247173                               |
-| **SMT token contract (Polygon)**   | 0xE631DABeF60c37a37d70d3B4f812871df663226f                               |
-| **vSMT token contract (Ethereum)** | 0x0C033bb39e67eB598D399C06A8A519498dA1Cec9                               |
-| **Supply**                         | 250 million (250,000,000 SMT)                                            |
-| **Initial circulating supply**     | 10.3 million tokens (10,304,259 SMT)                                     |
-| **Team allocation**                | None → 0%                                                                |
-| **ITSA Classification**            | [https://itin.itsa.global/NS8ZK44F9](https://itin.itsa.global/NS8ZK44F9) |
+| **Ticker**                         | SMT                                                                                                                                                                                                                                                                            |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Type**                           | ERC20                                                                                                                                                                                                                                                                          |
+| **SMT token contract (Ethereum)**  | 0xb17548c7b510427baac4e267bea62e800b247173                                                                                                                                                                                                                                     |
+| **SMT token contract (Polygon)**   | 0xE631DABeF60c37a37d70d3B4f812871df663226f                                                                                                                                                                                                                                     |
+| **vSMT token contract (Ethereum)** | 0x0C033bb39e67eB598D399C06A8A519498dA1Cec9                                                                                                                                                                                                                                     |
+| **Supply**                         | <p>Initial: 250 million (250,000,000 SMT)<br>Current: 240 million (240,398,298 SMT)<br><a href="https://medium.com/swarm-com/swarm-adds-governance-to-smt-utility-and-proposes-to-burn-%E2%85%93-of-all-tokens-59f430a3db07">Proposal (7/12/24)</a>: reduce to 159 million</p> |
+| **Initial circulating supply**     | 10.3 million tokens (10,304,259 SMT)                                                                                                                                                                                                                                           |
+| **Team allocation**                | None → 0%                                                                                                                                                                                                                                                                      |
+| **ITSA Classification**            | [https://itin.itsa.global/NS8ZK44F9](https://itin.itsa.global/NS8ZK44F9)                                                                                                                                                                                                       |
+
+{% hint style="info" %}
+We recommend to use CoinGecko's metrics as reference data for token supply and circulation here: [https://www.coingecko.com/en/coins/swarm-markets](https://www.coingecko.com/en/coins/swarm-markets)\
+CoinMarketCap unfortunately does not represent the correct figuresm and has not updated despite multiple outreaches.&#x20;
+{% endhint %}
 
 ### **Rewards Pool**
 
