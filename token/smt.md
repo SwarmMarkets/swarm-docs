@@ -43,9 +43,11 @@ SMT holders an to participate in key decisions about the $SMT token, rewards pol
 | **Team allocation**                | None → 0%                                                                                                                                                                                                                                                                      |
 | **ITSA Classification**            | [https://itin.itsa.global/NS8ZK44F9](https://itin.itsa.global/NS8ZK44F9)                                                                                                                                                                                                       |
 
+#### Circulating Supply
+
 {% hint style="info" %}
-We recommend to use CoinGecko's metrics as reference data for token supply and circulation here: [https://www.coingecko.com/en/coins/swarm-markets](https://www.coingecko.com/en/coins/swarm-markets)\
-CoinMarketCap unfortunately does not represent the correct figuresm and has not updated despite multiple outreaches.&#x20;
+We recommend to use CoinGecko's metrics as reference data for token supply and circulation here: [https://www.coingecko.com/en/coins/swarm-markets](https://www.coingecko.com/en/coins/swarm-markets) which directly originates from Swarm's direct API link here: [https://api.app.swarm.com/smt\_supply/circulating/cg](https://api.app.swarm.com/smt\_supply/circulating/cg)\
+CoinMarketCap unfortunately does not represent the correct figures and has not updated despite multiple outreaches.&#x20;
 {% endhint %}
 
 ### **Rewards Pool**
