@@ -20,6 +20,28 @@ The smart contract replaces the need for financial intermediaries, typically fou
 
 Sign up here at [app.swarm.com](https://app.swarm.com/dotc/) or email us: [swarm@swarm.com](mailto:swarm@swarm.com).
 
+## dOTC V2 <a href="#f4ee" id="f4ee"></a>
+
+{% hint style="info" %}
+dOTC V2 has been [announced on 7/12/2024](https://medium.com/swarm-com/swarm-adds-governance-to-smt-utility-and-proposes-to-burn-%E2%85%93-of-all-tokens-59f430a3db07) and will be released in the coming weeks&#x20;
+{% endhint %}
+
+The release of dOTC V2 will support growing liquidity for real-world assets on chain and beyond, making the user experience more superior and efficient.
+
+The release consists of five core new features:
+
+1. **Dynamic Pricing**: Offer prices can be set in reference to an external price oracle, meaning it continually moves with the market price and does not need updating. Offers can be set as a percentage to the oracle price, allowing premiums or discounts to market price, as well as minimum limit prices
+2. **Better discoverability**:
+   1. app.swarm.com: dOTC will be available under [app.swarm.com](http://app.swarm.com/) while still independently accessible under [dOTC.eth](http://dotc.eth/)
+   2. User experience: improved UX of the dOTC platform will make for easier use and greater adoption
+   3. Shareability: share button will make sharing offers as easy as sharing items on Amazon
+
+**3. Offer communications**: communication channels will enable comms between makers and takers who wish to negotiate modified terms or highlight specific terms
+
+**4. KYC select**: makers can require takers be qualified and choose from a selection of KYC/AML service providers, including, for example, Swarm Markets
+
+**5. Affiliate participation**: affiliates can earn rewards from embedding dOTC offers into their platform and will be paid in real-time from each transaction.
+
 ## Frequently asked questions
 
 #### What makes your dOTC offering different to others in the market?
