@@ -1,26 +1,60 @@
 # SMT
 
 {% hint style="info" %}
-There is a new governance utility has been proposed here with significant changes to the rewards policy and burning 1/3 of the token supply. Read more here: [https://medium.com/swarm-com/swarm-adds-governance-to-smt-utility-and-proposes-to-burn-%E2%85%93-of-all-tokens-59f430a3db07](https://medium.com/swarm-com/swarm-adds-governance-to-smt-utility-and-proposes-to-burn-%E2%85%93-of-all-tokens-59f430a3db07)
+<mark style="color:green;">Following the approval by SMT token holders of the "</mark>[<mark style="color:green;">Rewards Policy and Burn Proposal</mark>](https://vote.swarm.com/#/proposal/0xca4c31432f733cf43358df91d99c56a299ce0cc9338fcd4b8f8bc89f7da7d02e)<mark style="color:green;">", a new SMT Rewards Policy is in effect from 5th August, 2024.</mark> \
+Read more [here](https://medium.com/swarm-com/swarm-adds-governance-to-smt-utility-and-proposes-to-burn-%E2%85%93-of-all-tokens-59f430a3db07).
 {% endhint %}
 
 ## **Overview**
 
 SMT is a payment token based on the ERC20 protocol on the Ethereum blockchain. SMT facilitates simplified transactions and provides a discount and reward mechanism for the Swarm platform.
 
-SMT is part of a virtuous circle of fee payments and [rewards](smt.md#rewards-pool) flowing through Swarm Markets. It has the following utilities:
+SMT is part of a virtuous circle of fees, payments and [rewards](smt.md#rewards-pool) flowing through the Swarm Markets decentralized public good tools. It has the following utilities:
 
-#### Liquidity and Staking Rewards
+#### Rewards:
 
 Special incentives are built into the token economy to reward liquidity providers who provide liquidity across the platform.
 
-Staking Rewards are based on each address's amount of $SMT staked against a specific RWA, calculated using the RWA's Market Cap (TVL) as a proportion of total RWA Market Cap, prorated against all $SMT stakes against the specific RWA.
+SMT Rewards will consist of three categories:
 
-#### Loyalty Level Rewards
+1. Liquidity Providers (Ethereum, Polygon, BASE)
+2. RWA Holders (Polygon)
+3. RWA Stakers (Polygon)
 
-Loyalty Level Rewards are paid to SMT holders according to the ratio of SMT to other crypto assets on the protocol. Users holding SMT and other assets in the same wallet are eligible to receive SMT as part of Loyalty Level Rewards. The wallet must be connected to Swarm Markets and the rewards are determined according to the following levels:
+Regular calculations will be made to determine the TVL for each category, applying any boosts, with the weekly SMT allocated distributed proportionally to each category.
 
-![](<../.gitbook/assets/image (21).png>)
+Within each category, rewards will be distributed to each wallet address proportional to their contribution to the total TVL.
+
+### **Liquidity Provider Rewards**
+
+Liquidity Provider rewards are distributed to wallets that make viable offers with eligible assets within the Open dOTC protocol.
+
+**Boost**: Offers which include an RWA will be given a 2x boost.
+
+**Viable offers** are those offers that are:
+
+* live (not cancelled, expired, or fully taken),
+* public (not private offers)
+* in-range: priced within 20% of the current market price for the asset pair. The closer the offer price to the market price, the higher the reward.
+
+**Eligible assets** refers to assets for which a price feed exists, being:
+
+* Crypto assets (SMT, WETH, USDC, WBTC, etc..)
+* RWAs (Stocks, bonds and gold)
+
+The calculated value of each offer and the period of time it is considered in-range will determine the amount of reward to the offer maker, in proportion to the total TVL of the protocol.&#x20;
+
+### RWA Holder Rewards
+
+Wallets which hold a balance of any of Swarm’s RWA assets (stocks, bonds and gold NFTs) will be counted by taking the value (in USD) of their RWA holdings and applying a 4x boost.
+
+RWAs deposited as offers the Open dOTC protocol are also eligible.
+
+### **RWA Staking Rewards**
+
+Rewards are distributed per RWA according to the market cap of each RWA in relation to total platform TVL.
+
+Wallets which have staked $SMT against a specific RWA will be entitled to a share of its rewards relative to all wallets staking against the same RWA.
 
 **Other Incentives**
 
@@ -32,31 +66,30 @@ SMT holders an to participate in key decisions about the $SMT token, rewards pol
 
 ### **Key Data**
 
-| **Ticker**                         | SMT                                                                                                                                                                                                                                                                            |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Type**                           | ERC20                                                                                                                                                                                                                                                                          |
-| **SMT token contract (Ethereum)**  | 0xb17548c7b510427baac4e267bea62e800b247173                                                                                                                                                                                                                                     |
-| **SMT token contract (Polygon)**   | 0xE631DABeF60c37a37d70d3B4f812871df663226f                                                                                                                                                                                                                                     |
-| **vSMT token contract (Ethereum)** | 0x0C033bb39e67eB598D399C06A8A519498dA1Cec9                                                                                                                                                                                                                                     |
-| **Supply**                         | <p>Initial: 250 million (250,000,000 SMT)<br>Current: 240 million (240,398,298 SMT)<br><a href="https://medium.com/swarm-com/swarm-adds-governance-to-smt-utility-and-proposes-to-burn-%E2%85%93-of-all-tokens-59f430a3db07">Proposal (7/12/24)</a>: reduce to 159 million</p> |
-| **Initial circulating supply**     | 10.3 million tokens (10,304,259 SMT)                                                                                                                                                                                                                                           |
-| **Team allocation**                | None → 0%                                                                                                                                                                                                                                                                      |
-| **ITSA Classification**            | [https://itin.itsa.global/NS8ZK44F9](https://itin.itsa.global/NS8ZK44F9)                                                                                                                                                                                                       |
+| **Ticker**                         | SMT                                                                                       |
+| ---------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Type**                           | ERC20                                                                                     |
+| **SMT token contract (Ethereum)**  | 0xb17548c7b510427baac4e267bea62e800b247173                                                |
+| **SMT token contract (Polygon)**   | 0xE631DABeF60c37a37d70d3B4f812871df663226f                                                |
+| **vSMT token contract (Ethereum)** | 0x0C033bb39e67eB598D399C06A8A519498dA1Cec9                                                |
+| **Supply**                         | <p>Initial: 250 million (250,000,000 SMT)<br>Current: 158.9 million (158,879,117 SMT)</p> |
+| **Initial circulating supply**     | 10.3 million tokens (10,304,259 SMT)                                                      |
+| **Team allocation**                | None → 0%                                                                                 |
+| **ITSA Classification**            | [https://itin.itsa.global/NS8ZK44F9](https://itin.itsa.global/NS8ZK44F9)                  |
 
 #### Circulating Supply
 
 {% hint style="info" %}
-We recommend to use CoinGecko's metrics as reference data for token supply and circulation here: [https://www.coingecko.com/en/coins/swarm-markets](https://www.coingecko.com/en/coins/swarm-markets) which directly originates from Swarm's direct API link here: [https://api.app.swarm.com/smt\_supply/circulating/cg](https://api.app.swarm.com/smt\_supply/circulating/cg)\
-CoinMarketCap unfortunately does not represent the correct figures and has not updated despite multiple outreaches.&#x20;
+We recommend to use CoinGecko's metrics as reference data for token supply and circulation here: [https://www.coingecko.com/en/coins/swarm-markets](https://www.coingecko.com/en/coins/swarm-markets) which directly originates from Swarm's direct API link here: [https://api.app.swarm.com/smt\_supply/circulating/cg](https://api.app.swarm.com/smt\_supply/circulating/cg)
 {% endhint %}
 
 ### **Rewards Pool**
 
-* **Up to 50% of supply**: 125 million tokens (125,000,000 SMT)
+* **Up to 50% of supply**: 125 million tokens (125,000,000 SMT) - <mark style="color:green;">After the July 2024 governance vote, this has been reduced to 49.4 million SMT</mark>
 * **Launch Liquidity Program Providers:** 5 million tokens (5,000,000 SMT)
 * **Distribution:**
   * Platform Rewards to (1) Liquidity provider rewards, (2) RWA Holder rewards, (3) SMT Staking rewards
-  * Rewards Pool tokens will be released weekly at a diminishing rate over a 100-year period according to a regression curve representing a 11% reduction per year
+  * Rewards Pool tokens will be released weekly at a diminishing rate over a 10-year period according to a regression curve representing a 11% reduction per year
   * About 1.4% will be released in the first 90 days after TGE and at a diminishing rate thereafter, starting at a rate of slightly under 0.5% per month until all Rewards Pool tokens have been released.
 * **Rewards Distribution Logs:**
   * SMT reward distribution logs including a list of addresses and reward amounts are published regularly on the [Swarm Markets SMT Rewards Distribution](https://github.com/SwarmMarkets/smt-rewards-distribution) Github repo.
@@ -69,7 +102,7 @@ CoinMarketCap unfortunately does not represent the correct figures and has not u
 
 ### **Reserve**
 
-* **Up to 20% of supply:** 50 million tokens (50,000,000 SMT)
+* **Up to 20% of supply:** 50 million tokens (50,000,000 SMT) - <mark style="color:green;">After the July 2024 governance vote, this has been reduced to 7 million SMT</mark>
 * **Distribution:** Reserved for future use; assumed 5-year linear release starting 3 years from TGE
 
 ### **---- NO TEAM ALLOCATION! ----**
@@ -82,7 +115,7 @@ The rate at which SMT tokens enter circulation will be controlled by Swarm in or
 
 Vesting is enforced by wrapping SMT. Tokens will appear as [vSMT](https://etherscan.io/address/0x0C033bb39e67eB598D399C06A8A519498dA1Cec9) in your wallet until they are vested at which point they can be converted to SMT. vSMT cannot be transferred, staked, or traded. SMT can be transferred without restriction.
 
-The vesting schedule and distribution model has been designed with fairness as top priority and with the goal to release about half the maximum supply towards the end of year 3. Rewards Pool tokens are released over the course of 100 years at a rate which diminishes each week.
+The vesting schedule and distribution model has been designed with fairness as top priority and with the goal to release about half the maximum supply towards the end of year 3. Rewards Pool tokens are released over the course of 10 years at a rate which diminishes each week.
 
 vSMT holders are able to unwrap and convert 20% of their holdings at the Token Generation Event (TGE) on August 1st, 2021 12:00 CET. An additional 20% of vSMT (of the original purchased amount) will be available to unwrap per quarter thereafter with 100% vesting after 12 months. There is no time limit to when vSMT holders must unwrap their vSMT and convert to SMT.
 
