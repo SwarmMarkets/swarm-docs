@@ -39,8 +39,10 @@ Liquidity Provider rewards are distributed to wallets that make viable offers wi
 
 **Eligible assets** refers to assets for which a price feed exists, being:
 
-* Crypto assets (SMT, WETH, USDC, WBTC, etc..)
-* RWAs (Stocks, bonds and gold)
+* Ethereum: SMT, wETH, wBTC, USDC, DAI, USDT, EUROC
+* Polygon: SMT, wETH, wBTC, USDC, USDC.e, DAI, WMATIC, AAPL, TSLA, TBONDS01, TBONDS13, COIN, NVDA, MSFT, MSTR, INTC, CPNG, BLK
+
+
 
 The calculated value of each offer and the period of time it is considered in-range will determine the amount of reward to the offer maker, in proportion to the total TVL of the protocol.&#x20;
 
