@@ -12,7 +12,7 @@ Swarm has completed first full audits successfully with Pessimistic. Links to th
 * [dOTC Audit (PDF)](https://github.com/SwarmMarkets/audits/blob/6ae18ac0262239a1ea52e80691f8d378252560f7/Swarm%20Markets%20dOTC%20Security%20Analysis%20Pessimistic.pdf)
 * [NFT Minter Audit (PDF)](https://github.com/SwarmMarkets/audits/blob/abe5f77e58b263d35fa8621a146fa5aa578e6938/Swarm%20Markets%20Nifty%20Minter%20Security%20Analysis%20Pessimistic.pdf)
 * [Action Manager Contract Audit (PDF)](https://github.com/SwarmMarkets/audits/blob/179c14b039bf6596ec4d6386dbdf5a639d51fdbe/Swarm%20Markets%20Action%20Manager%20Security%20Analysis%20by%20Pessimistic%20-%20Final.pdf)
-* Bundles V1.0 - esp. xGold (PDF)
+* [Bundles V1.0 - esp. xGold (PDF)](https://github.com/SwarmMarkets/swarm-nifty-bundles/blob/feat/open-nifty-bundles/PeckShield-Audit-Report-Swarm-Bundles-v1.0.pdf)
 
 ## Risks <a href="#risks" id="risks"></a>
 
