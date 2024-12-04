@@ -24,12 +24,12 @@ It's important to understand that wallets don't have custody of users' funds. Wa
 
 Swarm currently supports Metamask, Coinbase Wallet, Ledger, Trezor and many other web3 compatible wallets via the WalletConnect protocol. [Learn more about wallets from ethereum.org](https://ethereum.org/en/wallets/).
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Linking an existing MetaMask wallet:**
 
-| ![](<../.gitbook/assets/image (31).png>) | ![](<../.gitbook/assets/image (8).png>) |
-| ---------------------------------------- | --------------------------------------- |
+| ![](<../.gitbook/assets/image (31).png>) | ![](<../.gitbook/assets/image (8) (1).png>) |
+| ---------------------------------------- | ------------------------------------------- |
 
 Enter the password for the MetaMask account you would like to use. Then choose the address within your MetaMask account that you would like to connect to the Swarm Wallet. Connect this wallet and you will be automatically directed back to the Swarm Onboarding page. \\
 
@@ -50,7 +50,7 @@ If you need to create a new MetaMask wallet, setting one up is easy. Add [Metama
 
 Our goal is to continuously improve the user experience on Swarm, and we know that identity verification is often a hassle. We've carefully selected our KYC partners to minimize the pain and get users up and running as quickly as possible.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="170"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt="" width="170"><figcaption></figcaption></figure>
 
 **Identity Verification with Sum and Substance**
 

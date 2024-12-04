@@ -42,11 +42,11 @@ The platform indicates a user's current network and will prompt the user to swit
 
 The Network Selector Menu also contains a link to the official Polygon asset bridge. The Polygon Bridge allows for the easy transfer of assets between the Ethereum and Polygon networks.
 
-Watch our short video on how to bridge assets: [https://youtu.be/hj\_my2Vww6w](https://youtu.be/hj\_my2Vww6w)
+Watch our short video on how to bridge assets: [https://youtu.be/hj\_my2Vww6w](https://youtu.be/hj_my2Vww6w)
 
 The Swarm Application also includes a MATIC faucet that distributes enough MATIC to pay transaction fees for around 5 or 6 transactions. Anyone can get started with their first Polygon transactions by using the Network Selector Menu to select the Polygon network and launching the faucet to claim free MATIC from Swarm.
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 #### What will I need to use Swarm on Polygon?
 
@@ -65,7 +65,7 @@ Yes, watch out for our announcements in the coming weeks about new assets we are
 
 #### How are rewards and loyalty levels calculated on the Polygon network?
 
-Please refer to the latest [official SMT rewards](https://github.com/SwarmMarkets/smt-rewards-distribution/blob/main/policies/smt\_rd\_policy.md) policy for full details.
+Please refer to the latest [official SMT rewards](https://github.com/SwarmMarkets/smt-rewards-distribution/blob/main/policies/smt_rd_policy.md) policy for full details.
 
 In brief, rewards will be calculated and distributed based on the liquidity, trading history and SMT balance of each address per network.
 
