@@ -29,6 +29,8 @@ Within each category, rewards will be distributed to each wallet address proport
 
 Liquidity Provider rewards are distributed to wallets that make viable offers with eligible assets within the Open dOTC protocol.
 
+**Note that as of December 2, 2024, rewards will be distributed for offers made on dOTC v2 only. Offers on dOTC v1 will no longer be eligible for rewards.**
+
 **Boost**: Offers which include an RWA will be given a 2x boost.
 
 **Viable offers** are those offers that are:
@@ -37,7 +39,7 @@ Liquidity Provider rewards are distributed to wallets that make viable offers wi
 * public (not private offers)
 * in-range: priced within 20% of the current market price for the asset pair. The closer the offer price to the market price, the higher the reward.
 
-**Eligible assets** refers to assets for which a price feed exists, being:
+**Eligible assets** refers to assets for which a price feed exists, including at least the following:
 
 * Ethereum: SMT, wETH, wBTC, USDC, DAI, USDT, EUROC
 * Polygon: SMT, wETH, wBTC, USDC, USDC.e, DAI, WMATIC, AAPL, TSLA, TBONDS01, TBONDS13, COIN, NVDA, MSFT, MSTR, INTC, CPNG, BLK, xGOLD
@@ -80,7 +82,7 @@ SMT holders an to participate in key decisions about the $SMT token, rewards pol
 #### Circulating Supply
 
 {% hint style="info" %}
-We recommend to use CoinGecko's metrics as reference data for token supply and circulation here: [https://www.coingecko.com/en/coins/swarm-markets](https://www.coingecko.com/en/coins/swarm-markets) which directly originates from Swarm's direct API link here: [https://api.app.swarm.com/smt\_supply/circulating/cg](https://api.app.swarm.com/smt\_supply/circulating/cg)
+We recommend to use CoinGecko's metrics as reference data for token supply and circulation here: [https://www.coingecko.com/en/coins/swarm-markets](https://www.coingecko.com/en/coins/swarm-markets) which directly originates from Swarm's direct API link here: [https://api.app.swarm.com/smt\_supply/circulating/cg](https://api.app.swarm.com/smt_supply/circulating/cg)
 {% endhint %}
 
 ### **Rewards Pool**
@@ -93,7 +95,7 @@ We recommend to use CoinGecko's metrics as reference data for token supply and c
   * About 1.4% will be released in the first 90 days after TGE and at a diminishing rate thereafter, starting at a rate of slightly under 0.5% per month until all Rewards Pool tokens have been released.
 * **Rewards Distribution Logs:**
   * SMT reward distribution logs including a list of addresses and reward amounts are published regularly on the [Swarm Markets SMT Rewards Distribution](https://github.com/SwarmMarkets/smt-rewards-distribution) Github repo.
-* **Current Rewards Policy** may be found at [https://github.com/SwarmMarkets/smt-rewards-distribution/blob/main/policies/smt\_rd\_policy.md](https://github.com/SwarmMarkets/smt-rewards-distribution/blob/main/policies/smt\_rd\_policy.md)
+* **Current Rewards Policy** may be found at [https://github.com/SwarmMarkets/smt-rewards-distribution/blob/main/policies/smt\_rd\_policy.md](https://github.com/SwarmMarkets/smt-rewards-distribution/blob/main/policies/smt_rd_policy.md)
 
 ### **Community Pool**
 
@@ -111,7 +113,7 @@ We recommend to use CoinGecko's metrics as reference data for token supply and c
 
 The rate at which SMT tokens enter circulation will be controlled by Swarm in order to ensure stable valuation and adequate rewards across the platform’s various stages of growth.
 
-![](https://lh4.googleusercontent.com/9oDacM5JXg7jCH\_UzgRACl-3GRhPpGM9HwMHXVZOqfobAoSm9Xf0cNKYxbXcoRiCc6Wwt4-uGsFOyFXYjFtGP7C3Te2fvt4mUK7lE6g6WFYg4eUDnZJrsqV3ouPd\_exjfPAskUBJ)
+![](https://lh4.googleusercontent.com/9oDacM5JXg7jCH_UzgRACl-3GRhPpGM9HwMHXVZOqfobAoSm9Xf0cNKYxbXcoRiCc6Wwt4-uGsFOyFXYjFtGP7C3Te2fvt4mUK7lE6g6WFYg4eUDnZJrsqV3ouPd_exjfPAskUBJ)
 
 Vesting is enforced by wrapping SMT. Tokens will appear as [vSMT](https://etherscan.io/address/0x0C033bb39e67eB598D399C06A8A519498dA1Cec9) in your wallet until they are vested at which point they can be converted to SMT. vSMT cannot be transferred, staked, or traded. SMT can be transferred without restriction.
 
