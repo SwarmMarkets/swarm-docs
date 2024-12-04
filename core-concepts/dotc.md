@@ -137,9 +137,9 @@ dOTC enables contract-based block trades for both crypto and as well as real wor
 
 #### **What assets will be available to trade dOTC?**
 
-At launch, the dOTC system will support authorized ERC20 assets only.
+The dOTC system supports the full range of digital assets encompassing the ERC20, ERC721 and ERC1155 standards.
 
-In future, the dOTC contract will be used for a wide range of digital assets, from ERC20 to ERC721/1155, enabling participants to trade high value NFTs and to facilitate smoother liquidation of crypto positions. We will announce new eligible assets for dOTC trading as we add them.
+This enables participants to trade high value NFTs and to facilitate smoother liquidation of crypto positions.&#x20;
 
 #### Will there be a minimum order size on dOTC?
 
