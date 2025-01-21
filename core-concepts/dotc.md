@@ -49,7 +49,7 @@ The release consists of five new core features:
 
 **3. Offer terms and communications**: Offers can now include links to terms and communication channels to enable comms between makers and takers who wish to negotiate a deal or highlight specific terms
 
-**4. KYC select (coming soon)**: Offer makers can now require counterparties to be qualified and choose from a selection of KYC/AML service providers, including, for example, Swarm Markets. This feature provides an additional compliance layer that sits on top of open and permissionless infrastructure, to provide fully regulatory institutional trading.
+**4. KYC select**: Offer makers can now require counterparties to be qualified and choose from a selection of KYC/AML service providers, including, for example, Swarm Markets. This feature provides an additional compliance layer that sits on top of open and permissionless infrastructure, to provide fully regulatory institutional trading. See [here](../reference/kyc-select.md) for more details and technical implementation.
 
 **5. Affiliate participation**: affiliates can earn rewards from embedding dOTC offers into their platform with payouts being distributed in real-time from each transaction.
 

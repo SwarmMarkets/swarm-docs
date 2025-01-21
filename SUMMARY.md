@@ -29,6 +29,7 @@
   * [Onboarding API](reference/apis/onboarding-api.md)
   * [Subgraph](reference/apis/subgraph/README.md)
     * [Onboarding API](reference/apis/subgraph/onboarding-api.md)
+* [KYC Select](reference/kyc-select.md)
 
 ## About
 
