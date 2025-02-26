@@ -87,7 +87,7 @@ We recommend to use CoinGecko's metrics as reference data for token supply and c
 
 ### **Rewards Pool**
 
-* **Up to 50% of supply**: 125 million tokens (125,000,000 SMT) - <mark style="color:green;">After the July 2024 governance vote, this has been reduced to 49.4 million SMT</mark>
+* **Up to 50% of supply**: 125 million tokens (125,000,000 SMT) - <mark style="color:green;">After the July 2024 governance vote, this has been reduced to 49.4 million SMT;</mark> [treasury wallet](https://etherscan.io/address/0x4aD8ea04079f1febCAfA345508f6b64638e936B5)
 * **Launch Liquidity Program Providers:** 5 million tokens (5,000,000 SMT)
 * **Distribution:**
   * Platform Rewards to (1) Liquidity provider rewards, (2) RWA Holder rewards, (3) SMT Staking rewards
@@ -99,12 +99,12 @@ We recommend to use CoinGecko's metrics as reference data for token supply and c
 
 ### **Community Pool**
 
-* **Up to 10% of supply:** 25 million tokens (25,000,000 SMT)
+* **Up to 10% of supply:** 25 million tokens (25,000,000 SMT)<mark style="color:green;">;</mark> [treasury wallet](https://etherscan.io/address/0xf0756b4150feE6deF4c9d5172DA029cc2Ca29B36)
 * **Distribution:** 1.25% distributed per quarter
 
 ### **Reserve**
 
-* **Up to 20% of supply:** 50 million tokens (50,000,000 SMT) - <mark style="color:green;">After the July 2024 governance vote, this has been reduced to 7 million SMT</mark>
+* **Up to 20% of supply:** 50 million tokens (50,000,000 SMT) - <mark style="color:green;">After the July 2024 governance vote, this has been reduced to 7 million SMT;</mark> [treasury wallet](https://etherscan.io/address/0x857cc51F07924B82e931B473131c965415d070f6)
 * **Distribution:** Reserved for future use; assumed 5-year linear release starting 3 years from TGE
 
 ### **---- NO TEAM ALLOCATION! ----**
