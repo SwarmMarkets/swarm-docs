@@ -87,7 +87,10 @@ We recommend to use CoinGecko's metrics as reference data for token supply and c
 
 ### **Rewards Pool**
 
-* **Up to 50% of supply**: 125 million tokens (125,000,000 SMT) - <mark style="color:green;">After the July 2024 governance vote, this has been reduced to 49.4 million SMT;</mark> [treasury wallet](https://etherscan.io/address/0x4aD8ea04079f1febCAfA345508f6b64638e936B5)
+* **Up to 50% of supply**:
+  * Initially 125 million tokens (125,000,000 SMT)
+  * <mark style="color:green;">After the July 2024 governance vote, this has been reduced to 49.4 million SMT</mark>
+  * [Currently available](https://etherscan.io/address/0x4aD8ea04079f1febCAfA345508f6b64638e936B5)
 * **Launch Liquidity Program Providers:** 5 million tokens (5,000,000 SMT)
 * **Distribution:**
   * Platform Rewards to (1) Liquidity provider rewards, (2) RWA Holder rewards, (3) SMT Staking rewards
@@ -97,15 +100,20 @@ We recommend to use CoinGecko's metrics as reference data for token supply and c
   * SMT reward distribution logs including a list of addresses and reward amounts are published regularly on the [Swarm Markets SMT Rewards Distribution](https://github.com/SwarmMarkets/smt-rewards-distribution) Github repo.
 * **Current Rewards Policy** may be found at [https://github.com/SwarmMarkets/smt-rewards-distribution/blob/main/policies/smt\_rd\_policy.md](https://github.com/SwarmMarkets/smt-rewards-distribution/blob/main/policies/smt_rd_policy.md)
 
-### **Community Pool**
-
-* **Up to 10% of supply:** 25 million tokens (25,000,000 SMT)<mark style="color:green;">;</mark> [treasury wallet](https://etherscan.io/address/0xf0756b4150feE6deF4c9d5172DA029cc2Ca29B36)
-* **Distribution:** 1.25% distributed per quarter
-
 ### **Reserve**
 
-* **Up to 20% of supply:** 50 million tokens (50,000,000 SMT) - <mark style="color:green;">After the July 2024 governance vote, this has been reduced to 7 million SMT;</mark> [treasury wallet](https://etherscan.io/address/0x857cc51F07924B82e931B473131c965415d070f6)
+* **Up to 20% of supply:**
+  * Initially 50 million tokens (50,000,000 SMT)
+  * <mark style="color:green;">After the July 2024 governance vote, this has been reduced to 7 million SMT</mark>
+  * [Currently available](https://etherscan.io/address/0x857cc51F07924B82e931B473131c965415d070f6)
 * **Distribution:** Reserved for future use; assumed 5-year linear release starting 3 years from TGE
+
+### **Community Pool**
+
+* **Up to 10% of supply:**
+  * Initially 25 million tokens (25,000,000 SMT)
+  * [Currently available](https://etherscan.io/address/0xf0756b4150feE6deF4c9d5172DA029cc2Ca29B36)
+* **Distribution:** 1.25% distributed per quarter
 
 ### **---- NO TEAM ALLOCATION! ----**
 
@@ -131,7 +139,7 @@ At [vote.swarm.com](http://vote.swarm.com/) or directly at [snapshot](https://sn
 
 Swarm Markets DAO has been set up and registered in Marshall Islands. SMT token reserves are governed by eligible members of the Swarm Markets DAO LLC formed under the Associations Law, 52 MIRC, Part 1, of the Republic of the Marshall Islands and under License Number RMI-2024-65 under the Foreign Investment Business License Act.
 
-{% file src="../.gitbook/assets/Swarm Markets DAO LLC - Corporate Charter and FIBL (1).pdf" %}
+{% file src="../.gitbook/assets/Swarm Markets DAO LLC - Corporate Charter and FIBL.pdf" %}
 
 ## Unwrapping vSMT to SMT
 
