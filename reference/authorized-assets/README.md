@@ -2,6 +2,7 @@
 description: >-
   Digital assets listed on Swarm go through a process of due diligence, risk
   analysis and authorization to ensure compliance.
+hidden: true
 ---
 
 # Authorized Assets
