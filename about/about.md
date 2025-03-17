@@ -21,7 +21,7 @@ We live in times where technology enables individuals to come together in swarms
 
 The Swarm platform is provided by Swarm Captial GmbH (together “Swarm”).
 
-Swarm was founded by pioneers in area of digital securities and from the core founding team of Swarm Network. Swarm is not affiliated to the Swarm Network.
+Swarm was founded by pioneers in the area of digital securities and from the core founding team of Swarm Network. Swarm is not affiliated to the Swarm Network.
 
 ### Executive Team
 
