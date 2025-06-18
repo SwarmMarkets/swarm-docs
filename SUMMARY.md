@@ -27,8 +27,7 @@
 * [Audits](reference/smart-contract-audit.md)
 * [APIs](reference/apis/README.md)
   * [Onboarding API](reference/apis/onboarding-api.md)
-  * [Subgraph](reference/apis/subgraph/README.md)
-    * [Onboarding API](reference/apis/subgraph/onboarding-api.md)
+  * [Subgraph](reference/apis/subgraph.md)
 * [KYC Select](reference/kyc-select.md)
 
 ## About
