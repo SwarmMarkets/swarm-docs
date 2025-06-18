@@ -45,5 +45,5 @@
 
 ***
 
-* [Privacy](https://docs.swarm.com/about/terms/privacy)
+* [Privacy Policy](https://docs.swarm.com/about/terms/privacy)
 * [Imprint](https://docs.swarm.com/about/terms/imprint)
